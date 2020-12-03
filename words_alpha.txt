@@ -55153,6 +55153,7 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
+chlorofluoromethanes
 chloroform
 chloroformate
 chloroformed

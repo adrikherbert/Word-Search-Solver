@@ -4,12 +4,13 @@ public class PuzzleWord {
     private final String word;
     private String orientation;
     private String direction;
+    private DictionaryWord knownWord;
 
-    public PuzzleWord(int startGridX, int startGridY, String word, String direction) {
+    public PuzzleWord(int startGridX, int startGridY, String word, String orientation) {
         this.startGridX = startGridX;
         this.startGridY = startGridY;
         this.word = word;
-        this.orientation = direction;
+        this.orientation = orientation;
     }
 
     public void setDirection(String direction) {
@@ -38,6 +39,14 @@ public class PuzzleWord {
 
     public String getOrientation() {
         return orientation;
+    }
+
+    public DictionaryWord getKnownWord() {
+        return knownWord;
+    }
+
+    public void setKnownWord(DictionaryWord knownWord) {
+        this.knownWord = knownWord;
     }
 
     @Override

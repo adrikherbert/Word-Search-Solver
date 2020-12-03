@@ -1,5 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public class WordSearch {
     private final ArrayList<DictionaryWord> knownWords;
@@ -22,17 +24,25 @@ public class WordSearch {
     }
 
     public void parseDictionary() {
+        ArrayList<String> sortedWords = new ArrayList<>();
+        int count = 0;
+
         try (BufferedReader reader = new BufferedReader(new FileReader(dictionary))) {
             String line = reader.readLine();
-            int count = 0;
 
             while (line != null) {
-                knownWords.add(new DictionaryWord(count, line));
+                sortedWords.add(line);
                 line = reader.readLine();
-                count++;
             }
         } catch (IOException e) {
             e.printStackTrace();
+        }
+
+        Collections.sort(sortedWords);
+
+        for (String word : sortedWords) {
+            knownWords.add(new DictionaryWord(count, word));
+            count++;
         }
     }
 
@@ -68,7 +78,7 @@ public class WordSearch {
         }
     }
 
-    public void solvePuzzle() {
+    public void solvePuzzle() throws FileNotFoundException {
         for (PuzzleCharacter[] row : puzzlePieces) {
             PuzzleWord[] candidates = compileCandidates(row);
 
@@ -114,6 +124,10 @@ public class WordSearch {
 
             for (PuzzleWord puzzleWord : candidates) {
                 puzzleWord.setDirection("diagonal right");
+
+                if (puzzleWord.getOrientation().equals("forwards")) {
+                    puzzleWord.setOrientation("backwards");
+                } else puzzleWord.setOrientation("forwards");
             }
 
             searchCandidates(candidates);
@@ -143,7 +157,7 @@ public class WordSearch {
             searchCandidates(candidates);
         }
 
-        printSolution();
+        exportToFile();
     }
 
     private PuzzleWord[] compileCandidates(PuzzleCharacter[] row) {
@@ -192,6 +206,8 @@ public class WordSearch {
             boolean appearsOnce = false;
             String currentKnownWord;
 
+            if (s.getWord().equals("chlorofluoromethanes")) findBilk(s);
+
             while (!solved) {
                 lastPointer = pointer;
                 pointer = (searchPointerEnd + searchPointerBegin) / 2;
@@ -209,14 +225,20 @@ public class WordSearch {
 
                     if (appearsOnce) break;
 
+                    s.setKnownWord(knownWords.get(pointer));
+
                     solvedWords.add(s);
                     solved = true;
                 } else {
-                    if (appearsAfter(s.getWord(), knownWords.get(pointer).getWord())) searchPointerBegin = pointer;
+                    if (appearsAfter(s.getWord(), currentKnownWord)) searchPointerBegin = pointer;
                     else searchPointerEnd = pointer;
                 }
             }
         }
+    }
+
+    public void findBilk(PuzzleWord s) {
+        System.out.println("I'm chlorofluoromethanes");
     }
 
     public boolean appearsAfter(String s, String knownWord) {
@@ -237,12 +259,27 @@ public class WordSearch {
         }
     }
 
-    public void printSolution() {
-        System.out.println("PRINT FORMAT: <WORD, START_X, START_Y, ORIENTATION, DIRECTION>");
-        System.out.println("==============================================================");
+    private void exportToFile() throws FileNotFoundException {
+        File file = new File("FoundWords.txt");
 
-        for (PuzzleWord word : solvedWords) {
-            System.out.printf("%s - %d - %d - %s - %s\n", word.getWord(), word.getStartGridx(), word.getStartGridY(), word.getOrientation(), word.getDirection());
+        try (PrintWriter writer = new PrintWriter(new FileOutputStream(file))) {
+            writer.println(solvedWords.size() + " words found!");
+            writer.println("PRINT FORMAT: <WORD, ROW, COLUMN, ORIENTATION, DIRECTION>");
+            writer.println("==============================================================");
+
+            for (PuzzleWord word : solvedWords) {
+                writer.printf("%s - %d - %d - %s - %s\n", word.getWord(), word.getStartGridx(), word.getStartGridY(), word.getOrientation(), word.getDirection());
+            }
+        }
+    }
+
+    public void exportDictionaryToFile() throws FileNotFoundException {
+        File file = new File("ExportDictionary.txt");
+
+        try (PrintWriter writer = new PrintWriter(new FileOutputStream(file))) {
+            for (DictionaryWord word : knownWords) {
+                writer.println(word.getWord());
+            }
         }
     }
 
@@ -250,5 +287,6 @@ public class WordSearch {
         WordSearch search = new WordSearch("words_alpha.txt", "WordSearch.txt");
 
         search.solvePuzzle();
+        search.exportDictionaryToFile();
     }
 }
