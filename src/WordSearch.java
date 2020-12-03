@@ -39,16 +39,21 @@ public class WordSearch {
     public void parsePuzzle() {
         try (BufferedReader reader = new BufferedReader(new FileReader(puzzle))) {
             ArrayList<String> lines = new ArrayList<>();
-            String line = reader.readLine();
+            String readLine = reader.readLine();
 
-            while (line != null) {
-                lines.add(line);
+            while (readLine != null) {
+                StringBuilder line = new StringBuilder();
 
-                line = reader.readLine();
+                for (int i = 0; i < readLine.length(); i++) {
+                    if (Character.isLetter(readLine.charAt(i))) line.append(Character.toLowerCase(readLine.charAt(i)));
+                }
+
+                lines.add(line.toString());
+                readLine = reader.readLine();
             }
 
             if (lines.size() != lines.get(0).length()) {
-                throw new InvalidPuzzleException("Invalid Puzzle Format: Puzzle is not square");
+                throw new InvalidPuzzleException("Invalid Puzzle Format: Puzzle is not square " + lines.size() + " " + lines.get(0).length());
             } else {
                 puzzlePieces = new PuzzleCharacter[lines.size()][lines.size()];
             }
@@ -92,7 +97,7 @@ public class WordSearch {
 
         int compileArrayLength = 0;
         int adjust = 0;
-        for (int i = 0; i < puzzlePieces.length + (puzzlePieces.length) - 1; i++) {
+        for (int i = 0; i < puzzlePieces.length + puzzlePieces.length - 1; i++) {
             if (i < puzzlePieces.length) compileArrayLength++;
             else {
                 adjust++;
@@ -108,7 +113,31 @@ public class WordSearch {
             PuzzleWord[] candidates = compileCandidates(diagonal);
 
             for (PuzzleWord puzzleWord : candidates) {
-                puzzleWord.setDirection("diagonal");
+                puzzleWord.setDirection("diagonal right");
+            }
+
+            searchCandidates(candidates);
+        }
+
+        compileArrayLength = 0;
+        adjust = 0;
+        for (int i = 0; i < puzzlePieces.length + puzzlePieces.length - 1; i++) {
+            if (i < puzzlePieces.length) compileArrayLength++;
+            else {
+                adjust++;
+                compileArrayLength--;
+            }
+
+            PuzzleCharacter[] diagonal = new PuzzleCharacter[compileArrayLength];
+
+            for (int j = 0; j < compileArrayLength; j++) {
+                diagonal[j] = puzzlePieces[puzzlePieces.length - 1 - i + j + adjust][puzzlePieces.length - 1 - j - adjust];
+            }
+
+            PuzzleWord[] candidates = compileCandidates(diagonal);
+
+            for (PuzzleWord puzzleWord : candidates) {
+                puzzleWord.setDirection("diagonal left");
             }
 
             searchCandidates(candidates);
