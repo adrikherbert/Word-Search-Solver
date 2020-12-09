@@ -206,7 +206,7 @@ public class WordSearch {
             boolean appearsOnce = false;
             String currentKnownWord;
 
-            if (s.getWord().equals("chlorofluoromethanes")) findBilk(s);
+//            if (s.getWord().equals("chlorofluoromethanes")) findBilk(s);
 
             while (!solved) {
                 lastPointer = pointer;
@@ -237,9 +237,9 @@ public class WordSearch {
         }
     }
 
-    public void findBilk(PuzzleWord s) {
-        System.out.println("I'm chlorofluoromethanes");
-    }
+//    public void findBilk(PuzzleWord s) {
+//        System.out.println("I'm chlorofluoromethanes");
+//    }
 
     public boolean appearsAfter(String s, String knownWord) {
         if (s.length() >= knownWord.length()) {
