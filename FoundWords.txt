@@ -1,0 +1,2039 @@
+2036 words found!
+PRINT FORMAT: <WORD, ROW, COLUMN, ORIENTATION, DIRECTION>
+==============================================================
+r - 0 - 0 - forwards - horizontal
+q - 0 - 1 - forwards - horizontal
+c - 0 - 2 - forwards - horizontal
+cb - 0 - 2 - forwards - horizontal
+b - 0 - 3 - forwards - horizontal
+bz - 0 - 3 - forwards - horizontal
+z - 0 - 4 - forwards - horizontal
+bp - 0 - 5 - forwards - horizontal
+p - 0 - 6 - forwards - horizontal
+pk - 0 - 6 - forwards - horizontal
+k - 0 - 7 - forwards - horizontal
+f - 0 - 8 - forwards - horizontal
+fs - 0 - 8 - forwards - horizontal
+s - 0 - 9 - forwards - horizontal
+sw - 0 - 9 - forwards - horizontal
+swede - 0 - 9 - forwards - horizontal
+sweden - 0 - 9 - forwards - horizontal
+swedenborgian - 0 - 9 - forwards - horizontal
+swedenborgianism - 0 - 9 - forwards - horizontal
+w - 0 - 10 - forwards - horizontal
+we - 0 - 10 - forwards - horizontal
+wed - 0 - 10 - forwards - horizontal
+wede - 0 - 10 - forwards - horizontal
+e - 0 - 11 - forwards - horizontal
+ed - 0 - 11 - forwards - horizontal
+eden - 0 - 11 - forwards - horizontal
+d - 0 - 12 - forwards - horizontal
+de - 0 - 12 - forwards - horizontal
+den - 0 - 12 - forwards - horizontal
+en - 0 - 13 - forwards - horizontal
+n - 0 - 14 - forwards - horizontal
+nb - 0 - 14 - forwards - horizontal
+bo - 0 - 15 - forwards - horizontal
+bor - 0 - 15 - forwards - horizontal
+borg - 0 - 15 - forwards - horizontal
+o - 0 - 16 - forwards - horizontal
+or - 0 - 16 - forwards - horizontal
+org - 0 - 16 - forwards - horizontal
+orgia - 0 - 16 - forwards - horizontal
+rg - 0 - 17 - forwards - horizontal
+g - 0 - 18 - forwards - horizontal
+gi - 0 - 18 - forwards - horizontal
+i - 0 - 19 - forwards - horizontal
+ia - 0 - 19 - forwards - horizontal
+ian - 0 - 19 - forwards - horizontal
+a - 0 - 20 - forwards - horizontal
+an - 0 - 20 - forwards - horizontal
+ani - 0 - 20 - forwards - horizontal
+anis - 0 - 20 - forwards - horizontal
+ni - 0 - 21 - forwards - horizontal
+nis - 0 - 21 - forwards - horizontal
+is - 0 - 22 - forwards - horizontal
+ism - 0 - 22 - forwards - horizontal
+sm - 0 - 23 - forwards - horizontal
+m - 0 - 24 - forwards - horizontal
+mp - 0 - 24 - forwards - horizontal
+pt - 0 - 25 - forwards - horizontal
+pts - 0 - 25 - forwards - horizontal
+t - 0 - 26 - forwards - horizontal
+ts - 0 - 26 - forwards - horizontal
+sh - 0 - 27 - forwards - horizontal
+h - 0 - 28 - forwards - horizontal
+hq - 0 - 28 - forwards - horizontal
+qu - 0 - 29 - forwards - horizontal
+u - 0 - 30 - forwards - horizontal
+us - 0 - 30 - forwards - horizontal
+usa - 0 - 30 - forwards - horizontal
+sa - 0 - 31 - forwards - horizontal
+as - 0 - 32 - backwards - horizontal
+su - 0 - 31 - backwards - horizontal
+suq - 0 - 31 - backwards - horizontal
+qh - 0 - 29 - backwards - horizontal
+hs - 0 - 28 - backwards - horizontal
+st - 0 - 27 - backwards - horizontal
+tp - 0 - 26 - backwards - horizontal
+tpm - 0 - 26 - backwards - horizontal
+pm - 0 - 25 - backwards - horizontal
+ms - 0 - 24 - backwards - horizontal
+si - 0 - 23 - backwards - horizontal
+sin - 0 - 23 - backwards - horizontal
+sina - 0 - 23 - backwards - horizontal
+in - 0 - 22 - backwards - horizontal
+na - 0 - 21 - backwards - horizontal
+naig - 0 - 21 - backwards - horizontal
+ai - 0 - 20 - backwards - horizontal
+gr - 0 - 18 - backwards - horizontal
+gro - 0 - 18 - backwards - horizontal
+ro - 0 - 17 - backwards - horizontal
+rob - 0 - 17 - backwards - horizontal
+ob - 0 - 16 - backwards - horizontal
+bn - 0 - 15 - backwards - horizontal
+ne - 0 - 14 - backwards - horizontal
+ned - 0 - 14 - backwards - horizontal
+dew - 0 - 12 - backwards - horizontal
+dews - 0 - 12 - backwards - horizontal
+ew - 0 - 11 - backwards - horizontal
+ws - 0 - 10 - backwards - horizontal
+sf - 0 - 9 - backwards - horizontal
+cq - 0 - 2 - backwards - horizontal
+qr - 0 - 1 - backwards - horizontal
+er - 1 - 0 - forwards - horizontal
+l - 1 - 2 - forwards - horizontal
+la - 1 - 2 - forwards - horizontal
+lac - 1 - 2 - forwards - horizontal
+ac - 1 - 3 - forwards - horizontal
+cir - 1 - 4 - forwards - horizontal
+ir - 1 - 5 - forwards - horizontal
+rt - 1 - 6 - forwards - horizontal
+rte - 1 - 6 - forwards - horizontal
+te - 1 - 7 - forwards - horizontal
+tem - 1 - 7 - forwards - horizontal
+em - 1 - 8 - forwards - horizontal
+emir - 1 - 8 - forwards - horizontal
+mi - 1 - 9 - forwards - horizontal
+mir - 1 - 9 - forwards - horizontal
+mira - 1 - 9 - forwards - horizontal
+ira - 1 - 10 - forwards - horizontal
+ra - 1 - 11 - forwards - horizontal
+rah - 1 - 11 - forwards - horizontal
+ah - 1 - 12 - forwards - horizontal
+cc - 1 - 14 - forwards - horizontal
+ca - 1 - 15 - forwards - horizontal
+asg - 1 - 16 - forwards - horizontal
+sg - 1 - 17 - forwards - horizontal
+y - 1 - 19 - forwards - horizontal
+x - 1 - 21 - forwards - horizontal
+xs - 1 - 21 - forwards - horizontal
+j - 1 - 23 - forwards - horizontal
+jt - 1 - 23 - forwards - horizontal
+ta - 1 - 24 - forwards - horizontal
+tap - 1 - 24 - forwards - horizontal
+tape - 1 - 24 - forwards - horizontal
+tapes - 1 - 24 - forwards - horizontal
+ap - 1 - 25 - forwards - horizontal
+ape - 1 - 25 - forwards - horizontal
+apes - 1 - 25 - forwards - horizontal
+pe - 1 - 26 - forwards - horizontal
+pes - 1 - 26 - forwards - horizontal
+es - 1 - 27 - forwards - horizontal
+ese - 1 - 27 - forwards - horizontal
+eses - 1 - 27 - forwards - horizontal
+se - 1 - 28 - forwards - horizontal
+esq - 1 - 29 - forwards - horizontal
+sq - 1 - 30 - forwards - horizontal
+qm - 1 - 31 - forwards - horizontal
+qs - 1 - 31 - backwards - horizontal
+sep - 1 - 28 - backwards - horizontal
+ep - 1 - 27 - backwards - horizontal
+epa - 1 - 27 - backwards - horizontal
+pa - 1 - 26 - backwards - horizontal
+pat - 1 - 26 - backwards - horizontal
+at - 1 - 25 - backwards - horizontal
+js - 1 - 23 - backwards - horizontal
+hy - 1 - 20 - backwards - horizontal
+gs - 1 - 18 - backwards - horizontal
+sac - 1 - 17 - backwards - horizontal
+saccha - 1 - 17 - backwards - horizontal
+saccharimetric - 1 - 17 - backwards - horizontal
+saccharimetrical - 1 - 17 - backwards - horizontal
+acc - 1 - 16 - backwards - horizontal
+ch - 1 - 14 - backwards - horizontal
+cha - 1 - 14 - backwards - horizontal
+char - 1 - 14 - backwards - horizontal
+ha - 1 - 13 - backwards - horizontal
+harim - 1 - 13 - backwards - horizontal
+ar - 1 - 12 - backwards - horizontal
+rim - 1 - 11 - backwards - horizontal
+rime - 1 - 11 - backwards - horizontal
+im - 1 - 10 - backwards - horizontal
+me - 1 - 9 - backwards - horizontal
+met - 1 - 9 - backwards - horizontal
+metric - 1 - 9 - backwards - horizontal
+metrical - 1 - 9 - backwards - horizontal
+et - 1 - 8 - backwards - horizontal
+tr - 1 - 7 - backwards - horizontal
+tri - 1 - 7 - backwards - horizontal
+trica - 1 - 7 - backwards - horizontal
+ric - 1 - 6 - backwards - horizontal
+ic - 1 - 5 - backwards - horizontal
+cal - 1 - 4 - backwards - horizontal
+al - 1 - 3 - backwards - horizontal
+lr - 1 - 2 - backwards - horizontal
+re - 1 - 1 - backwards - horizontal
+tg - 2 - 0 - forwards - horizontal
+tgn - 2 - 0 - forwards - horizontal
+gn - 2 - 1 - forwards - horizontal
+no - 2 - 2 - forwards - horizontal
+it - 2 - 4 - forwards - horizontal
+ita - 2 - 4 - forwards - horizontal
+az - 2 - 6 - forwards - horizontal
+cy - 2 - 13 - forwards - horizontal
+yr - 2 - 14 - forwards - horizontal
+ng - 2 - 19 - forwards - horizontal
+kc - 2 - 22 - forwards - horizontal
+cd - 2 - 23 - forwards - horizontal
+dz - 2 - 24 - forwards - horizontal
+zs - 2 - 26 - forwards - horizontal
+suci - 2 - 27 - forwards - horizontal
+uc - 2 - 28 - forwards - horizontal
+cit - 2 - 29 - forwards - horizontal
+gt - 2 - 32 - backwards - horizontal
+ti - 2 - 31 - backwards - horizontal
+tic - 2 - 31 - backwards - horizontal
+cu - 2 - 29 - backwards - horizontal
+dc - 2 - 24 - backwards - horizontal
+ck - 2 - 23 - backwards - horizontal
+str - 2 - 17 - backwards - horizontal
+strych - 2 - 17 - backwards - horizontal
+strychnin - 2 - 17 - backwards - horizontal
+strychninization - 2 - 17 - backwards - horizontal
+try - 2 - 16 - backwards - horizontal
+chn - 2 - 13 - backwards - horizontal
+za - 2 - 7 - backwards - horizontal
+zat - 2 - 7 - backwards - horizontal
+zati - 2 - 7 - backwards - horizontal
+ati - 2 - 6 - backwards - horizontal
+io - 2 - 4 - backwards - horizontal
+ion - 2 - 4 - backwards - horizontal
+on - 2 - 3 - backwards - horizontal
+ety - 3 - 0 - forwards - horizontal
+yi - 3 - 2 - forwards - horizontal
+ll - 3 - 5 - forwards - horizontal
+cipo - 3 - 8 - forwards - horizontal
+po - 3 - 10 - forwards - horizontal
+oc - 3 - 11 - forwards - horizontal
+cs - 3 - 12 - forwards - horizontal
+so - 3 - 13 - forwards - horizontal
+soe - 3 - 13 - forwards - horizontal
+oe - 3 - 14 - forwards - horizontal
+oer - 3 - 14 - forwards - horizontal
+ere - 3 - 15 - forwards - horizontal
+ret - 3 - 16 - forwards - horizontal
+rets - 3 - 16 - forwards - horizontal
+mu - 3 - 20 - forwards - horizontal
+af - 3 - 22 - forwards - horizontal
+ql - 3 - 27 - forwards - horizontal
+ln - 3 - 28 - forwards - horizontal
+nl - 3 - 29 - forwards - horizontal
+lh - 3 - 30 - forwards - horizontal
+hl - 3 - 31 - forwards - horizontal
+hf - 3 - 24 - backwards - horizontal
+fa - 3 - 23 - backwards - horizontal
+aum - 3 - 22 - backwards - horizontal
+um - 3 - 21 - backwards - horizontal
+mster - 3 - 20 - backwards - horizontal
+ster - 3 - 19 - backwards - horizontal
+stere - 3 - 19 - backwards - horizontal
+stereo - 3 - 19 - backwards - horizontal
+stereos - 3 - 19 - backwards - horizontal
+stereoscopic - 3 - 19 - backwards - horizontal
+stereoscopical - 3 - 19 - backwards - horizontal
+stereoscopically - 3 - 19 - backwards - horizontal
+ter - 3 - 18 - backwards - horizontal
+eo - 3 - 15 - backwards - horizontal
+eos - 3 - 15 - backwards - horizontal
+os - 3 - 14 - backwards - horizontal
+osc - 3 - 14 - backwards - horizontal
+sc - 3 - 13 - backwards - horizontal
+scop - 3 - 13 - backwards - horizontal
+scopic - 3 - 13 - backwards - horizontal
+co - 3 - 12 - backwards - horizontal
+cop - 3 - 12 - backwards - horizontal
+op - 3 - 11 - backwards - horizontal
+pi - 3 - 10 - backwards - horizontal
+pic - 3 - 10 - backwards - horizontal
+pica - 3 - 10 - backwards - horizontal
+pical - 3 - 10 - backwards - horizontal
+call - 3 - 8 - backwards - horizontal
+all - 3 - 7 - backwards - horizontal
+ally - 3 - 7 - backwards - horizontal
+ly - 3 - 5 - backwards - horizontal
+yt - 3 - 2 - backwards - horizontal
+mb - 4 - 0 - forwards - horizontal
+bu - 4 - 1 - forwards - horizontal
+bud - 4 - 1 - forwards - horizontal
+ud - 4 - 2 - forwards - horizontal
+pu - 4 - 6 - forwards - horizontal
+pus - 4 - 6 - forwards - horizontal
+syl - 4 - 8 - forwards - horizontal
+ls - 4 - 10 - forwards - horizontal
+syn - 4 - 11 - forwards - horizontal
+sync - 4 - 11 - forwards - horizontal
+syncategorem - 4 - 11 - forwards - horizontal
+syncategorematic - 4 - 11 - forwards - horizontal
+yn - 4 - 12 - forwards - horizontal
+cat - 4 - 14 - forwards - horizontal
+cate - 4 - 14 - forwards - horizontal
+categorem - 4 - 14 - forwards - horizontal
+categorematic - 4 - 14 - forwards - horizontal
+ate - 4 - 15 - forwards - horizontal
+teg - 4 - 16 - forwards - horizontal
+eg - 4 - 17 - forwards - horizontal
+ego - 4 - 17 - forwards - horizontal
+go - 4 - 18 - forwards - horizontal
+gor - 4 - 18 - forwards - horizontal
+gore - 4 - 18 - forwards - horizontal
+ore - 4 - 19 - forwards - horizontal
+rem - 4 - 20 - forwards - horizontal
+ma - 4 - 22 - forwards - horizontal
+mat - 4 - 22 - forwards - horizontal
+cup - 4 - 26 - forwards - horizontal
+up - 4 - 27 - forwards - horizontal
+jg - 4 - 32 - backwards - horizontal
+gie - 4 - 31 - backwards - horizontal
+ie - 4 - 30 - backwards - horizontal
+tam - 4 - 24 - backwards - horizontal
+tame - 4 - 24 - backwards - horizontal
+tamer - 4 - 24 - backwards - horizontal
+am - 4 - 23 - backwards - horizontal
+ame - 4 - 23 - backwards - horizontal
+mer - 4 - 22 - backwards - horizontal
+mero - 4 - 22 - backwards - horizontal
+rog - 4 - 20 - backwards - horizontal
+og - 4 - 19 - backwards - horizontal
+ge - 4 - 18 - backwards - horizontal
+get - 4 - 18 - backwards - horizontal
+geta - 4 - 18 - backwards - horizontal
+eta - 4 - 17 - backwards - horizontal
+ny - 4 - 13 - backwards - horizontal
+ys - 4 - 12 - backwards - horizontal
+sl - 4 - 11 - backwards - horizontal
+sly - 4 - 11 - backwards - horizontal
+lys - 4 - 10 - backwards - horizontal
+sup - 4 - 8 - backwards - horizontal
+du - 4 - 3 - backwards - horizontal
+dub - 4 - 3 - backwards - horizontal
+bm - 4 - 1 - backwards - horizontal
+ont - 5 - 0 - forwards - horizontal
+nt - 5 - 1 - forwards - horizontal
+tams - 5 - 2 - forwards - horizontal
+ss - 5 - 10 - forwards - horizontal
+sen - 5 - 11 - forwards - horizontal
+sensu - 5 - 11 - forwards - horizontal
+ens - 5 - 12 - forwards - horizontal
+ns - 5 - 13 - forwards - horizontal
+oil - 5 - 16 - forwards - horizontal
+il - 5 - 17 - forwards - horizontal
+li - 5 - 18 - forwards - horizontal
+cr - 5 - 20 - forwards - horizontal
+cre - 5 - 20 - forwards - horizontal
+rep - 5 - 21 - forwards - horizontal
+chi - 5 - 29 - backwards - horizontal
+hi - 5 - 28 - backwards - horizontal
+supe - 5 - 25 - backwards - horizontal
+super - 5 - 25 - backwards - horizontal
+supercilious - 5 - 25 - backwards - horizontal
+superciliousness - 5 - 25 - backwards - horizontal
+per - 5 - 23 - backwards - horizontal
+rc - 5 - 21 - backwards - horizontal
+iou - 5 - 17 - backwards - horizontal
+sn - 5 - 14 - backwards - horizontal
+ness - 5 - 13 - backwards - horizontal
+ess - 5 - 12 - backwards - horizontal
+sma - 5 - 5 - backwards - horizontal
+tn - 5 - 2 - backwards - horizontal
+lo - 6 - 0 - forwards - horizontal
+ol - 6 - 1 - forwards - horizontal
+lc - 6 - 2 - forwards - horizontal
+ct - 6 - 3 - forwards - horizontal
+tar - 6 - 4 - forwards - horizontal
+fl - 6 - 8 - forwards - horizontal
+lg - 6 - 9 - forwards - horizontal
+gey - 6 - 10 - forwards - horizontal
+ey - 6 - 11 - forwards - horizontal
+fi - 6 - 13 - forwards - horizontal
+fin - 6 - 13 - forwards - horizontal
+qn - 6 - 16 - forwards - horizontal
+xc - 6 - 18 - forwards - horizontal
+hd - 6 - 23 - forwards - horizontal
+v - 6 - 25 - forwards - horizontal
+vd - 6 - 25 - backwards - horizontal
+if - 6 - 14 - backwards - horizontal
+fy - 6 - 13 - backwards - horizontal
+ye - 6 - 12 - backwards - horizontal
+gl - 6 - 10 - backwards - horizontal
+lf - 6 - 9 - backwards - horizontal
+jr - 6 - 7 - backwards - horizontal
+rat - 6 - 6 - backwards - horizontal
+tc - 6 - 4 - backwards - horizontal
+cl - 6 - 3 - backwards - horizontal
+clo - 6 - 3 - backwards - horizontal
+kg - 7 - 4 - forwards - horizontal
+kgr - 7 - 4 - forwards - horizontal
+bs - 7 - 7 - forwards - horizontal
+sad - 7 - 8 - forwards - horizontal
+ad - 7 - 9 - forwards - horizontal
+ads - 7 - 9 - forwards - horizontal
+ds - 7 - 10 - forwards - horizontal
+sow - 7 - 17 - forwards - horizontal
+sowl - 7 - 17 - forwards - horizontal
+ow - 7 - 18 - forwards - horizontal
+owl - 7 - 18 - forwards - horizontal
+wl - 7 - 19 - forwards - horizontal
+lx - 7 - 20 - forwards - horizontal
+quo - 7 - 22 - forwards - horizontal
+he - 7 - 26 - forwards - horizontal
+hen - 7 - 26 - forwards - horizontal
+ec - 7 - 29 - forwards - horizontal
+ce - 7 - 30 - backwards - horizontal
+cen - 7 - 30 - backwards - horizontal
+cene - 7 - 30 - backwards - horizontal
+eh - 7 - 27 - backwards - horizontal
+hao - 7 - 26 - backwards - horizontal
+ao - 7 - 25 - backwards - horizontal
+lwo - 7 - 20 - backwards - horizontal
+wo - 7 - 19 - backwards - horizontal
+wos - 7 - 19 - backwards - horizontal
+ose - 7 - 18 - backwards - horizontal
+sex - 7 - 17 - backwards - horizontal
+ex - 7 - 16 - backwards - horizontal
+sd - 7 - 11 - backwards - horizontal
+da - 7 - 10 - backwards - horizontal
+das - 7 - 10 - backwards - horizontal
+asb - 7 - 9 - backwards - horizontal
+sb - 7 - 8 - backwards - horizontal
+br - 7 - 7 - backwards - horizontal
+ky - 7 - 4 - backwards - horizontal
+rio - 7 - 2 - backwards - horizontal
+bt - 8 - 0 - forwards - horizontal
+gd - 8 - 4 - forwards - horizontal
+db - 8 - 5 - forwards - horizontal
+bg - 8 - 6 - forwards - horizontal
+dn - 8 - 8 - forwards - horizontal
+tshi - 8 - 10 - forwards - horizontal
+shi - 8 - 11 - forwards - horizontal
+ib - 8 - 13 - forwards - horizontal
+by - 8 - 14 - forwards - horizontal
+sui - 8 - 17 - forwards - horizontal
+ui - 8 - 18 - forwards - horizontal
+ix - 8 - 19 - forwards - horizontal
+aq - 8 - 22 - forwards - horizontal
+lox - 8 - 24 - forwards - horizontal
+ox - 8 - 25 - forwards - horizontal
+tra - 8 - 28 - forwards - horizontal
+trad - 8 - 28 - forwards - horizontal
+rad - 8 - 29 - forwards - horizontal
+adc - 8 - 30 - forwards - horizontal
+dar - 8 - 31 - backwards - horizontal
+dart - 8 - 31 - backwards - horizontal
+art - 8 - 30 - backwards - horizontal
+xi - 8 - 20 - backwards - horizontal
+bi - 8 - 14 - backwards - horizontal
+ihs - 8 - 13 - backwards - horizontal
+nd - 8 - 9 - backwards - horizontal
+dg - 8 - 8 - backwards - horizontal
+bd - 8 - 6 - backwards - horizontal
+lst - 8 - 3 - backwards - horizontal
+tb - 8 - 1 - backwards - horizontal
+cab - 9 - 2 - forwards - horizontal
+ab - 9 - 3 - forwards - horizontal
+abe - 9 - 3 - forwards - horizontal
+be - 9 - 4 - forwards - horizontal
+bes - 9 - 4 - forwards - horizontal
+jo - 9 - 7 - forwards - horizontal
+eu - 9 - 11 - forwards - horizontal
+sv - 9 - 13 - forwards - horizontal
+vs - 9 - 14 - forwards - horizontal
+to - 9 - 16 - forwards - horizontal
+tou - 9 - 16 - forwards - horizontal
+bl - 9 - 19 - forwards - horizontal
+blam - 9 - 19 - forwards - horizontal
+lam - 9 - 20 - forwards - horizontal
+qy - 9 - 23 - forwards - horizontal
+zit - 9 - 25 - forwards - horizontal
+ziti - 9 - 25 - forwards - horizontal
+aa - 9 - 31 - forwards - horizontal
+aal - 9 - 32 - backwards - horizontal
+alc - 9 - 31 - backwards - horizontal
+mal - 9 - 22 - backwards - horizontal
+alb - 9 - 21 - backwards - horizontal
+lb - 9 - 20 - backwards - horizontal
+ot - 9 - 17 - backwards - horizontal
+sue - 9 - 13 - backwards - horizontal
+suer - 9 - 13 - backwards - horizontal
+roo - 9 - 10 - backwards - horizontal
+seba - 9 - 6 - backwards - horizontal
+ba - 9 - 4 - backwards - horizontal
+bac - 9 - 4 - backwards - horizontal
+bacao - 9 - 4 - backwards - horizontal
+rd - 10 - 0 - forwards - horizontal
+kt - 10 - 4 - forwards - horizontal
+nu - 10 - 6 - forwards - horizontal
+nul - 10 - 6 - forwards - horizontal
+lie - 10 - 8 - forwards - horizontal
+lien - 10 - 8 - forwards - horizontal
+nib - 10 - 11 - forwards - horizontal
+nibs - 10 - 11 - forwards - horizontal
+see - 10 - 14 - forwards - horizontal
+ee - 10 - 15 - forwards - horizontal
+fp - 10 - 18 - forwards - horizontal
+pc - 10 - 19 - forwards - horizontal
+nv - 10 - 22 - forwards - horizontal
+va - 10 - 23 - forwards - horizontal
+bk - 10 - 25 - forwards - horizontal
+rec - 10 - 32 - backwards - horizontal
+kb - 10 - 26 - backwards - horizontal
+av - 10 - 24 - backwards - horizontal
+avn - 10 - 24 - backwards - horizontal
+cp - 10 - 20 - backwards - horizontal
+pf - 10 - 19 - backwards - horizontal
+fie - 10 - 18 - backwards - horizontal
+bin - 10 - 13 - backwards - horizontal
+bine - 10 - 13 - backwards - horizontal
+nei - 10 - 11 - backwards - horizontal
+neil - 10 - 11 - backwards - horizontal
+lu - 10 - 8 - backwards - horizontal
+lunt - 10 - 8 - backwards - horizontal
+un - 10 - 7 - backwards - horizontal
+tk - 10 - 5 - backwards - horizontal
+dr - 10 - 1 - backwards - horizontal
+tnt - 11 - 0 - forwards - horizontal
+ii - 11 - 3 - forwards - horizontal
+sld - 11 - 9 - forwards - horizontal
+ld - 11 - 10 - forwards - horizontal
+dl - 11 - 11 - forwards - horizontal
+wc - 11 - 13 - forwards - horizontal
+car - 11 - 14 - forwards - horizontal
+cart - 11 - 14 - forwards - horizontal
+ea - 11 - 20 - forwards - horizontal
+eau - 11 - 20 - forwards - horizontal
+aud - 11 - 21 - forwards - horizontal
+dt - 11 - 23 - forwards - horizontal
+tv - 11 - 24 - forwards - horizontal
+vp - 11 - 25 - forwards - horizontal
+ear - 11 - 29 - forwards - horizontal
+arb - 11 - 30 - forwards - horizontal
+bra - 11 - 32 - backwards - horizontal
+brae - 11 - 32 - backwards - horizontal
+ae - 11 - 30 - backwards - horizontal
+aeon - 11 - 30 - backwards - horizontal
+eon - 11 - 29 - backwards - horizontal
+np - 11 - 27 - backwards - horizontal
+pvt - 11 - 26 - backwards - horizontal
+vt - 11 - 25 - backwards - horizontal
+td - 11 - 24 - backwards - horizontal
+glt - 11 - 19 - backwards - horizontal
+lt - 11 - 18 - backwards - horizontal
+ltr - 11 - 18 - backwards - horizontal
+trac - 11 - 17 - backwards - horizontal
+xr - 12 - 4 - forwards - horizontal
+rip - 12 - 5 - forwards - horizontal
+ipm - 12 - 6 - forwards - horizontal
+ho - 12 - 14 - forwards - horizontal
+of - 12 - 15 - forwards - horizontal
+oft - 12 - 15 - forwards - horizontal
+ft - 12 - 16 - forwards - horizontal
+taa - 12 - 18 - forwards - horizontal
+taar - 12 - 18 - forwards - horizontal
+arr - 12 - 20 - forwards - horizontal
+nr - 12 - 28 - forwards - horizontal
+do - 12 - 31 - forwards - horizontal
+od - 12 - 32 - backwards - horizontal
+rn - 12 - 29 - backwards - horizontal
+grr - 12 - 23 - backwards - horizontal
+att - 12 - 19 - backwards - horizontal
+fo - 12 - 16 - backwards - horizontal
+foh - 12 - 16 - backwards - horizontal
+oh - 12 - 15 - backwards - horizontal
+het - 12 - 14 - backwards - horizontal
+hete - 12 - 14 - backwards - horizontal
+amp - 12 - 9 - backwards - horizontal
+pir - 12 - 7 - backwards - horizontal
+cst - 13 - 1 - forwards - horizontal
+sta - 13 - 2 - forwards - horizontal
+tau - 13 - 3 - forwards - horizontal
+taut - 13 - 3 - forwards - horizontal
+auth - 13 - 4 - forwards - horizontal
+ut - 13 - 5 - forwards - horizontal
+th - 13 - 6 - forwards - horizontal
+cod - 13 - 9 - forwards - horizontal
+km - 13 - 15 - forwards - horizontal
+mh - 13 - 16 - forwards - horizontal
+hit - 13 - 17 - forwards - horizontal
+sit - 13 - 21 - forwards - horizontal
+site - 13 - 21 - forwards - horizontal
+eer - 13 - 29 - forwards - horizontal
+ern - 13 - 30 - forwards - horizontal
+ree - 13 - 31 - backwards - horizontal
+gye - 13 - 26 - backwards - horizontal
+yet - 13 - 25 - backwards - horizontal
+yeti - 13 - 25 - backwards - horizontal
+yetis - 13 - 25 - backwards - horizontal
+tis - 13 - 23 - backwards - horizontal
+isn - 13 - 22 - backwards - horizontal
+isnt - 13 - 22 - backwards - horizontal
+hm - 13 - 17 - backwards - horizontal
+mk - 13 - 16 - backwards - horizontal
+kr - 13 - 15 - backwards - horizontal
+lhd - 13 - 13 - backwards - horizontal
+doc - 13 - 11 - backwards - horizontal
+ht - 13 - 7 - backwards - horizontal
+tu - 13 - 6 - backwards - horizontal
+tua - 13 - 6 - backwards - horizontal
+sea - 14 - 2 - forwards - horizontal
+seah - 14 - 2 - forwards - horizontal
+aha - 14 - 4 - forwards - horizontal
+hay - 14 - 5 - forwards - horizontal
+ay - 14 - 6 - forwards - horizontal
+jms - 14 - 16 - forwards - horizontal
+nid - 14 - 23 - forwards - horizontal
+id - 14 - 24 - forwards - horizontal
+poe - 14 - 29 - forwards - horizontal
+poa - 14 - 29 - backwards - horizontal
+di - 14 - 25 - backwards - horizontal
+din - 14 - 25 - backwards - horizontal
+loa - 14 - 22 - backwards - horizontal
+zho - 14 - 15 - backwards - horizontal
+any - 14 - 12 - backwards - horizontal
+ya - 14 - 7 - backwards - horizontal
+yah - 14 - 7 - backwards - horizontal
+hae - 14 - 5 - backwards - horizontal
+haes - 14 - 5 - backwards - horizontal
+aes - 14 - 4 - backwards - horizontal
+fe - 15 - 1 - forwards - horizontal
+fem - 15 - 1 - forwards - horizontal
+cg - 15 - 6 - forwards - horizontal
+yo - 15 - 8 - forwards - horizontal
+you - 15 - 8 - forwards - horizontal
+oui - 15 - 9 - forwards - horizontal
+fr - 15 - 13 - forwards - horizontal
+rm - 15 - 14 - forwards - horizontal
+mf - 15 - 15 - forwards - horizontal
+cis - 15 - 19 - forwards - horizontal
+isis - 15 - 20 - forwards - horizontal
+sis - 15 - 21 - forwards - horizontal
+siss - 15 - 21 - forwards - horizontal
+ssi - 15 - 24 - backwards - horizontal
+sisi - 15 - 23 - backwards - horizontal
+sic - 15 - 21 - backwards - horizontal
+iof - 15 - 18 - backwards - horizontal
+fm - 15 - 16 - backwards - horizontal
+mr - 15 - 15 - backwards - horizontal
+rf - 15 - 14 - backwards - horizontal
+oy - 15 - 9 - backwards - horizontal
+cpi - 15 - 6 - backwards - horizontal
+pim - 15 - 5 - backwards - horizontal
+ef - 15 - 2 - backwards - horizontal
+efs - 15 - 2 - backwards - horizontal
+nom - 16 - 2 - forwards - horizontal
+om - 16 - 3 - forwards - horizontal
+ml - 16 - 4 - forwards - horizontal
+lim - 16 - 5 - forwards - horizontal
+mg - 16 - 7 - forwards - horizontal
+gin - 16 - 8 - forwards - horizontal
+nm - 16 - 10 - forwards - horizontal
+mv - 16 - 11 - forwards - horizontal
+dot - 16 - 13 - forwards - horizontal
+csp - 16 - 18 - forwards - horizontal
+sp - 16 - 19 - forwards - horizontal
+spl - 16 - 19 - forwards - horizontal
+pl - 16 - 20 - forwards - horizontal
+pli - 16 - 20 - forwards - horizontal
+lir - 16 - 21 - forwards - horizontal
+irs - 16 - 22 - forwards - horizontal
+rs - 16 - 23 - forwards - horizontal
+tae - 16 - 25 - forwards - horizontal
+ssu - 16 - 29 - forwards - horizontal
+seat - 16 - 28 - backwards - horizontal
+seats - 16 - 28 - backwards - horizontal
+eat - 16 - 27 - backwards - horizontal
+eats - 16 - 27 - backwards - horizontal
+sr - 16 - 24 - backwards - horizontal
+sri - 16 - 24 - backwards - horizontal
+lp - 16 - 21 - backwards - horizontal
+ps - 16 - 20 - backwards - horizontal
+tod - 16 - 15 - backwards - horizontal
+mn - 16 - 11 - backwards - horizontal
+nig - 16 - 10 - backwards - horizontal
+gm - 16 - 8 - backwards - horizontal
+mil - 16 - 7 - backwards - horizontal
+lm - 16 - 5 - backwards - horizontal
+mo - 16 - 4 - backwards - horizontal
+mon - 16 - 4 - backwards - horizontal
+yes - 17 - 0 - forwards - horizontal
+sie - 17 - 2 - forwards - horizontal
+ufo - 17 - 5 - forwards - horizontal
+fog - 17 - 6 - forwards - horizontal
+eke - 17 - 11 - forwards - horizontal
+mc - 17 - 15 - forwards - horizontal
+esp - 17 - 19 - forwards - horizontal
+plu - 17 - 21 - forwards - horizontal
+lut - 17 - 22 - forwards - horizontal
+nbg - 17 - 29 - backwards - horizontal
+int - 17 - 26 - backwards - horizontal
+set - 17 - 20 - backwards - horizontal
+seth - 17 - 20 - backwards - horizontal
+eth - 17 - 19 - backwards - horizontal
+cm - 17 - 16 - backwards - horizontal
+miek - 17 - 15 - backwards - horizontal
+fu - 17 - 6 - backwards - horizontal
+ise - 17 - 3 - backwards - horizontal
+sey - 17 - 2 - backwards - horizontal
+uh - 18 - 2 - forwards - horizontal
+csi - 18 - 4 - forwards - horizontal
+sim - 18 - 5 - forwards - horizontal
+sima - 18 - 5 - forwards - horizontal
+ima - 18 - 6 - forwards - horizontal
+mae - 18 - 7 - forwards - horizontal
+ecu - 18 - 17 - forwards - horizontal
+hip - 18 - 20 - forwards - horizontal
+tib - 18 - 27 - forwards - horizontal
+pp - 18 - 30 - forwards - horizontal
+opp - 18 - 32 - backwards - horizontal
+ppb - 18 - 31 - backwards - horizontal
+bit - 18 - 29 - backwards - horizontal
+kn - 18 - 26 - backwards - horizontal
+nea - 18 - 25 - backwards - horizontal
+neap - 18 - 25 - backwards - horizontal
+hu - 18 - 20 - backwards - horizontal
+ary - 18 - 16 - backwards - horizontal
+eam - 18 - 9 - backwards - horizontal
+ami - 18 - 8 - backwards - horizontal
+amis - 18 - 8 - backwards - horizontal
+mis - 18 - 7 - backwards - horizontal
+misc - 18 - 7 - backwards - horizontal
+sch - 18 - 5 - backwards - horizontal
+hup - 18 - 3 - backwards - horizontal
+luo - 19 - 0 - forwards - horizontal
+aus - 19 - 7 - forwards - horizontal
+spp - 19 - 9 - forwards - horizontal
+ppl - 19 - 10 - forwards - horizontal
+vex - 19 - 25 - forwards - horizontal
+xu - 19 - 27 - forwards - horizontal
+ux - 19 - 28 - backwards - horizontal
+yoe - 19 - 23 - backwards - horizontal
+opt - 19 - 19 - backwards - horizontal
+pps - 19 - 11 - backwards - horizontal
+abr - 19 - 7 - backwards - horizontal
+coul - 19 - 3 - backwards - horizontal
+ase - 20 - 0 - forwards - horizontal
+sei - 20 - 1 - forwards - horizontal
+ean - 20 - 5 - forwards - horizontal
+ann - 20 - 6 - forwards - horizontal
+dk - 20 - 9 - forwards - horizontal
+dkm - 20 - 9 - forwards - horizontal
+hb - 20 - 12 - forwards - horizontal
+bier - 20 - 13 - forwards - horizontal
+ren - 20 - 16 - forwards - horizontal
+qe - 20 - 24 - forwards - horizontal
+tol - 20 - 29 - forwards - horizontal
+slot - 20 - 32 - backwards - horizontal
+slote - 20 - 32 - backwards - horizontal
+lot - 20 - 31 - backwards - horizontal
+lote - 20 - 31 - backwards - horizontal
+eq - 20 - 25 - backwards - horizontal
+nere - 20 - 18 - backwards - horizontal
+rei - 20 - 16 - backwards - horizontal
+nae - 20 - 7 - backwards - horizontal
+oie - 20 - 4 - backwards - horizontal
+cpl - 21 - 4 - forwards - horizontal
+long - 21 - 6 - forwards - horizontal
+foo - 21 - 13 - forwards - horizontal
+ron - 21 - 16 - forwards - horizontal
+kv - 21 - 21 - forwards - horizontal
+kea - 21 - 23 - forwards - horizontal
+aw - 21 - 25 - forwards - horizontal
+wf - 21 - 26 - forwards - horizontal
+pq - 21 - 28 - forwards - horizontal
+iq - 21 - 30 - backwards - horizontal
+qp - 21 - 29 - backwards - horizontal
+fw - 21 - 27 - backwards - horizontal
+wa - 21 - 26 - backwards - horizontal
+wae - 21 - 26 - backwards - horizontal
+nor - 21 - 18 - backwards - horizontal
+roof - 21 - 16 - backwards - horizontal
+oof - 21 - 15 - backwards - horizontal
+nol - 21 - 8 - backwards - horizontal
+olp - 21 - 7 - backwards - horizontal
+con - 21 - 4 - backwards - horizontal
+conj - 21 - 4 - backwards - horizontal
+nj - 21 - 2 - backwards - horizontal
+iv - 22 - 0 - forwards - horizontal
+iva - 22 - 0 - forwards - horizontal
+vat - 22 - 1 - forwards - horizontal
+tsi - 22 - 10 - forwards - horizontal
+sip - 22 - 11 - forwards - horizontal
+sk - 22 - 16 - forwards - horizontal
+ko - 22 - 17 - forwards - horizontal
+kou - 22 - 17 - forwards - horizontal
+oud - 22 - 18 - forwards - horizontal
+udi - 22 - 19 - forwards - horizontal
+kor - 22 - 23 - forwards - horizontal
+hed - 22 - 28 - forwards - horizontal
+edo - 22 - 29 - forwards - horizontal
+dos - 22 - 30 - forwards - horizontal
+sod - 22 - 32 - backwards - horizontal
+ode - 22 - 31 - backwards - horizontal
+wr - 22 - 26 - backwards - horizontal
+wro - 22 - 26 - backwards - horizontal
+rok - 22 - 25 - backwards - horizontal
+ok - 22 - 24 - backwards - horizontal
+khi - 22 - 23 - backwards - horizontal
+hid - 22 - 22 - backwards - horizontal
+duo - 22 - 20 - backwards - horizontal
+pis - 22 - 13 - backwards - horizontal
+pist - 22 - 13 - backwards - horizontal
+ist - 22 - 12 - backwards - horizontal
+tav - 22 - 3 - backwards - horizontal
+vi - 22 - 1 - backwards - horizontal
+pkt - 23 - 0 - forwards - horizontal
+sye - 23 - 5 - forwards - horizontal
+man - 23 - 19 - forwards - horizontal
+she - 23 - 23 - forwards - horizontal
+shes - 23 - 23 - forwards - horizontal
+hes - 23 - 24 - forwards - horizontal
+iqs - 23 - 28 - forwards - horizontal
+nam - 23 - 21 - backwards - horizontal
+lnr - 23 - 18 - backwards - horizontal
+fey - 23 - 8 - backwards - horizontal
+stk - 23 - 3 - backwards - horizontal
+yis - 24 - 4 - forwards - horizontal
+las - 24 - 18 - forwards - horizontal
+vg - 24 - 21 - forwards - horizontal
+mm - 24 - 24 - forwards - horizontal
+liz - 24 - 31 - backwards - horizontal
+izba - 24 - 30 - backwards - horizontal
+bap - 24 - 28 - backwards - horizontal
+mmf - 24 - 25 - backwards - horizontal
+mfg - 24 - 24 - backwards - horizontal
+fg - 24 - 23 - backwards - horizontal
+gv - 24 - 22 - backwards - horizontal
+sal - 24 - 20 - backwards - horizontal
+ju - 25 - 1 - forwards - horizontal
+gol - 25 - 17 - forwards - horizontal
+golo - 25 - 17 - forwards - horizontal
+lota - 25 - 19 - forwards - horizontal
+mot - 25 - 23 - forwards - horizontal
+my - 25 - 27 - forwards - horizontal
+shp - 25 - 29 - forwards - horizontal
+hp - 25 - 30 - forwards - horizontal
+pg - 25 - 31 - forwards - horizontal
+gp - 25 - 32 - backwards - horizontal
+gph - 25 - 32 - backwards - horizontal
+ph - 25 - 31 - backwards - horizontal
+sym - 25 - 29 - backwards - horizontal
+symptom - 25 - 29 - backwards - horizontal
+symptomatologies - 25 - 29 - backwards - horizontal
+ym - 25 - 28 - backwards - horizontal
+tom - 25 - 25 - backwards - horizontal
+toma - 25 - 25 - backwards - horizontal
+tomato - 25 - 25 - backwards - horizontal
+ologies - 25 - 20 - backwards - horizontal
+log - 25 - 19 - backwards - horizontal
+logie - 25 - 19 - backwards - horizontal
+gies - 25 - 17 - backwards - horizontal
+spet - 26 - 3 - forwards - horizontal
+pet - 26 - 4 - forwards - horizontal
+iii - 26 - 8 - forwards - horizontal
+wg - 26 - 16 - forwards - horizontal
+ga - 26 - 17 - forwards - horizontal
+gad - 26 - 17 - forwards - horizontal
+adm - 26 - 18 - forwards - horizontal
+dm - 26 - 19 - forwards - horizontal
+md - 26 - 20 - forwards - horizontal
+vv - 26 - 27 - forwards - horizontal
+via - 26 - 28 - forwards - horizontal
+iao - 26 - 29 - forwards - horizontal
+moa - 26 - 32 - backwards - horizontal
+vim - 26 - 27 - backwards - horizontal
+hv - 26 - 24 - backwards - horizontal
+dag - 26 - 19 - backwards - horizontal
+ag - 26 - 18 - backwards - horizontal
+wb - 26 - 16 - backwards - horizontal
+bai - 26 - 13 - backwards - horizontal
+liza - 27 - 1 - forwards - horizontal
+atm - 27 - 4 - forwards - horizontal
+atmo - 27 - 4 - forwards - horizontal
+tm - 27 - 5 - forwards - horizontal
+moc - 27 - 6 - forwards - horizontal
+csc - 27 - 8 - forwards - horizontal
+sct - 27 - 9 - forwards - horizontal
+ctn - 27 - 10 - forwards - horizontal
+ug - 27 - 13 - forwards - horizontal
+mna - 27 - 15 - forwards - horizontal
+nab - 27 - 16 - forwards - horizontal
+abl - 27 - 17 - forwards - horizontal
+xx - 27 - 21 - forwards - horizontal
+his - 27 - 24 - forwards - horizontal
+alw - 27 - 31 - backwards - horizontal
+bks - 27 - 28 - backwards - horizontal
+ksi - 27 - 27 - backwards - horizontal
+hox - 27 - 24 - backwards - horizontal
+glb - 27 - 20 - backwards - horizontal
+ban - 27 - 18 - backwards - horizontal
+gu - 27 - 14 - backwards - horizontal
+gun - 27 - 14 - backwards - horizontal
+com - 27 - 8 - backwards - horizontal
+mt - 27 - 6 - backwards - horizontal
+tin - 28 - 4 - forwards - horizontal
+tina - 28 - 4 - forwards - horizontal
+nat - 28 - 6 - forwards - horizontal
+nate - 28 - 6 - forwards - horizontal
+oz - 28 - 10 - forwards - horizontal
+esc - 28 - 12 - forwards - horizontal
+scler - 28 - 13 - forwards - horizontal
+sclere - 28 - 13 - forwards - horizontal
+sclerenchyma - 28 - 13 - forwards - horizontal
+sclerenchymatous - 28 - 13 - forwards - horizontal
+le - 28 - 15 - forwards - horizontal
+ler - 28 - 15 - forwards - horizontal
+lere - 28 - 15 - forwards - horizontal
+enc - 28 - 18 - forwards - horizontal
+enchyma - 28 - 18 - forwards - horizontal
+enchymatous - 28 - 18 - forwards - horizontal
+usw - 28 - 27 - forwards - horizontal
+wt - 28 - 29 - forwards - horizontal
+rtw - 28 - 31 - backwards - horizontal
+amy - 28 - 24 - backwards - horizontal
+rel - 28 - 17 - backwards - horizontal
+el - 28 - 16 - backwards - horizontal
+zo - 28 - 11 - backwards - horizontal
+tan - 28 - 8 - backwards - horizontal
+nit - 28 - 6 - backwards - horizontal
+itys - 28 - 5 - backwards - horizontal
+bv - 29 - 13 - forwards - horizontal
+tx - 29 - 26 - forwards - horizontal
+hld - 29 - 31 - backwards - horizontal
+ji - 29 - 18 - backwards - horizontal
+jig - 29 - 18 - backwards - horizontal
+vb - 29 - 14 - backwards - horizontal
+qua - 29 - 10 - backwards - horizontal
+quar - 29 - 10 - backwards - horizontal
+quarl - 29 - 10 - backwards - horizontal
+vil - 30 - 3 - forwards - horizontal
+coy - 30 - 10 - forwards - horizontal
+zer - 30 - 13 - forwards - horizontal
+ark - 30 - 27 - forwards - horizontal
+ki - 30 - 29 - forwards - horizontal
+rik - 30 - 31 - backwards - horizontal
+ik - 30 - 30 - backwards - horizontal
+ikra - 30 - 30 - backwards - horizontal
+kra - 30 - 29 - backwards - horizontal
+qt - 30 - 26 - backwards - horizontal
+liv - 30 - 5 - backwards - horizontal
+kl - 31 - 5 - forwards - horizontal
+lex - 31 - 6 - forwards - horizontal
+bret - 31 - 12 - forwards - horizontal
+rete - 31 - 13 - forwards - horizontal
+retem - 31 - 13 - forwards - horizontal
+mona - 31 - 17 - forwards - horizontal
+ona - 31 - 18 - forwards - horizontal
+mom - 31 - 21 - forwards - horizontal
+joe - 31 - 32 - backwards - horizontal
+sphygmomanometer - 31 - 28 - backwards - horizontal
+oman - 31 - 22 - backwards - horizontal
+mano - 31 - 21 - backwards - horizontal
+manometer - 31 - 21 - backwards - horizontal
+nome - 31 - 19 - backwards - horizontal
+mete - 31 - 17 - backwards - horizontal
+meter - 31 - 17 - backwards - horizontal
+elk - 31 - 7 - backwards - horizontal
+ber - 32 - 4 - forwards - horizontal
+ers - 32 - 5 - forwards - horizontal
+cf - 32 - 12 - forwards - horizontal
+fc - 32 - 13 - forwards - horizontal
+fcs - 32 - 13 - forwards - horizontal
+sem - 32 - 15 - forwards - horizontal
+semi - 32 - 15 - forwards - horizontal
+perm - 32 - 19 - forwards - horizontal
+erme - 32 - 20 - forwards - horizontal
+mea - 32 - 22 - forwards - horizontal
+lib - 32 - 27 - backwards - horizontal
+iba - 32 - 26 - backwards - horizontal
+bae - 32 - 25 - backwards - horizontal
+epi - 32 - 20 - backwards - horizontal
+mes - 32 - 17 - backwards - horizontal
+scf - 32 - 15 - backwards - horizontal
+reb - 32 - 6 - backwards - horizontal
+mol - 4 - 0 - forwards - vertical
+lob - 6 - 0 - forwards - vertical
+lobo - 6 - 0 - forwards - vertical
+bort - 8 - 0 - forwards - vertical
+ort - 9 - 0 - forwards - vertical
+cep - 12 - 0 - forwards - vertical
+ceps - 12 - 0 - forwards - vertical
+sob - 26 - 0 - forwards - vertical
+borts - 28 - 0 - forwards - vertical
+orts - 29 - 0 - forwards - vertical
+stroboscopic - 32 - 0 - backwards - vertical
+stroboscopical - 32 - 0 - backwards - vertical
+stroboscopically - 32 - 0 - backwards - vertical
+bos - 28 - 0 - backwards - vertical
+bosc - 28 - 0 - backwards - vertical
+allyl - 20 - 0 - backwards - vertical
+allyls - 20 - 0 - backwards - vertical
+spec - 15 - 0 - backwards - vertical
+spect - 15 - 0 - backwards - vertical
+spectrobolometer - 15 - 0 - backwards - vertical
+ctr - 12 - 0 - backwards - vertical
+obol - 9 - 0 - backwards - vertical
+bol - 8 - 0 - backwards - vertical
+bolo - 8 - 0 - backwards - vertical
+bolometer - 8 - 0 - backwards - vertical
+tad - 8 - 1 - forwards - vertical
+kw - 23 - 1 - forwards - vertical
+pks - 31 - 1 - backwards - vertical
+sml - 29 - 1 - backwards - vertical
+wk - 24 - 1 - backwards - vertical
+superfecundation - 20 - 1 - backwards - vertical
+perf - 18 - 1 - backwards - vertical
+erf - 17 - 1 - backwards - vertical
+fec - 15 - 1 - backwards - vertical
+fecund - 15 - 1 - backwards - vertical
+fecundation - 15 - 1 - backwards - vertical
+cun - 13 - 1 - backwards - vertical
+cund - 13 - 1 - backwards - vertical
+dat - 10 - 1 - backwards - vertical
+dation - 10 - 1 - backwards - vertical
+tlr - 5 - 2 - forwards - vertical
+tos - 11 - 2 - forwards - vertical
+toss - 11 - 2 - forwards - vertical
+osse - 12 - 2 - forwards - vertical
+natl - 21 - 2 - forwards - vertical
+lum - 24 - 2 - forwards - vertical
+isz - 27 - 2 - forwards - vertical
+zn - 30 - 2 - forwards - vertical
+simul - 28 - 2 - backwards - vertical
+simultaneous - 28 - 2 - backwards - vertical
+simultaneousness - 28 - 2 - backwards - vertical
+imu - 27 - 2 - backwards - vertical
+mult - 26 - 2 - backwards - vertical
+ult - 25 - 2 - backwards - vertical
+ulta - 25 - 2 - backwards - vertical
+tane - 23 - 2 - backwards - vertical
+ane - 22 - 2 - backwards - vertical
+neo - 21 - 2 - backwards - vertical
+sot - 13 - 2 - backwards - vertical
+tuy - 5 - 2 - backwards - vertical
+ida - 3 - 3 - forwards - vertical
+acy - 5 - 3 - forwards - vertical
+acyl - 5 - 3 - forwards - vertical
+cyl - 6 - 3 - forwards - vertical
+moi - 15 - 3 - forwards - vertical
+qv - 31 - 3 - backwards - vertical
+stoic - 23 - 3 - backwards - vertical
+stoichiometric - 23 - 3 - backwards - vertical
+stoichiometrical - 23 - 3 - backwards - vertical
+toi - 22 - 3 - backwards - vertical
+ich - 20 - 3 - backwards - vertical
+aly - 9 - 3 - backwards - vertical
+lyc - 8 - 3 - backwards - vertical
+cad - 6 - 3 - backwards - vertical
+cadi - 6 - 3 - backwards - vertical
+aim - 14 - 4 - forwards - vertical
+coco - 19 - 4 - forwards - vertical
+col - 21 - 4 - forwards - vertical
+coly - 21 - 4 - forwards - vertical
+pats - 26 - 4 - forwards - vertical
+stap - 29 - 4 - backwards - vertical
+staph - 29 - 4 - backwards - vertical
+staphylococcemia - 29 - 4 - backwards - vertical
+aph - 27 - 4 - backwards - vertical
+loc - 23 - 4 - backwards - vertical
+loco - 23 - 4 - backwards - vertical
+mia - 16 - 4 - backwards - vertical
+ax - 13 - 4 - backwards - vertical
+sag - 5 - 5 - forwards - vertical
+det - 8 - 5 - forwards - vertical
+deter - 8 - 5 - forwards - vertical
+plus - 15 - 5 - forwards - vertical
+sime - 23 - 5 - forwards - vertical
+tiu - 27 - 5 - forwards - vertical
+lui - 30 - 5 - backwards - vertical
+luite - 30 - 5 - backwards - vertical
+uit - 29 - 5 - backwards - vertical
+item - 28 - 5 - backwards - vertical
+supers - 23 - 5 - backwards - vertical
+supersulphuret - 23 - 5 - backwards - vertical
+supersulphureted - 23 - 5 - backwards - vertical
+pers - 21 - 5 - backwards - vertical
+sulphur - 18 - 5 - backwards - vertical
+sulphuret - 18 - 5 - backwards - vertical
+sulphureted - 18 - 5 - backwards - vertical
+phu - 15 - 5 - backwards - vertical
+hure - 14 - 5 - backwards - vertical
+ur - 13 - 5 - backwards - vertical
+ure - 13 - 5 - backwards - vertical
+ted - 10 - 5 - backwards - vertical
+gas - 7 - 5 - backwards - vertical
+pr - 0 - 6 - forwards - vertical
+alp - 2 - 6 - forwards - vertical
+lpm - 3 - 6 - forwards - vertical
+cif - 15 - 6 - forwards - vertical
+fib - 17 - 6 - forwards - vertical
+bal - 19 - 6 - forwards - vertical
+ball - 19 - 6 - forwards - vertical
+bally - 19 - 6 - forwards - vertical
+rly - 32 - 6 - backwards - vertical
+trs - 26 - 6 - backwards - vertical
+syll - 24 - 6 - backwards - vertical
+syllab - 24 - 6 - backwards - vertical
+syllabi - 24 - 6 - backwards - vertical
+syllabification - 24 - 6 - backwards - vertical
+syllabifications - 24 - 6 - backwards - vertical
+lab - 21 - 6 - backwards - vertical
+fica - 17 - 6 - backwards - vertical
+cation - 15 - 6 - backwards - vertical
+cations - 15 - 6 - backwards - vertical
+ions - 12 - 6 - backwards - vertical
+ons - 11 - 6 - backwards - vertical
+brr - 8 - 6 - backwards - vertical
+lar - 3 - 6 - backwards - vertical
+jus - 9 - 7 - forwards - vertical
+sphygmomanometry - 11 - 7 - forwards - vertical
+manometry - 18 - 7 - forwards - vertical
+oar - 27 - 7 - forwards - vertical
+fei - 0 - 8 - forwards - vertical
+dol - 8 - 8 - forwards - vertical
+dolt - 8 - 8 - forwards - vertical
+dj - 13 - 8 - forwards - vertical
+gau - 17 - 8 - forwards - vertical
+gaun - 17 - 8 - forwards - vertical
+unn - 19 - 8 - forwards - vertical
+bf - 22 - 8 - forwards - vertical
+fot - 23 - 8 - forwards - vertical
+otic - 24 - 8 - forwards - vertical
+tas - 28 - 8 - forwards - vertical
+sat - 30 - 8 - backwards - vertical
+ito - 26 - 8 - backwards - vertical
+fb - 23 - 8 - backwards - vertical
+tlo - 11 - 8 - backwards - vertical
+lod - 10 - 8 - backwards - vertical
+ods - 9 - 8 - backwards - vertical
+sci - 4 - 8 - backwards - vertical
+cie - 3 - 8 - backwards - vertical
+llano - 5 - 9 - forwards - vertical
+lan - 6 - 9 - forwards - vertical
+oime - 15 - 9 - forwards - vertical
+esd - 18 - 9 - forwards - vertical
+uti - 24 - 9 - forwards - vertical
+bey - 32 - 9 - backwards - vertical
+situ - 27 - 9 - backwards - vertical
+situs - 27 - 9 - backwards - vertical
+gds - 21 - 9 - backwards - vertical
+semioccasional - 19 - 9 - backwards - vertical
+semioccasionally - 19 - 9 - backwards - vertical
+occas - 15 - 9 - backwards - vertical
+occasion - 15 - 9 - backwards - vertical
+occasional - 15 - 9 - backwards - vertical
+occasionally - 15 - 9 - backwards - vertical
+sion - 11 - 9 - backwards - vertical
+yin - 4 - 9 - backwards - vertical
+wi - 0 - 10 - forwards - vertical
+ipl - 2 - 10 - forwards - vertical
+sgd - 5 - 10 - forwards - vertical
+eli - 10 - 10 - forwards - vertical
+yun - 14 - 10 - forwards - vertical
+twa - 22 - 10 - forwards - vertical
+wan - 23 - 10 - forwards - vertical
+naw - 25 - 10 - backwards - vertical
+nawt - 25 - 10 - backwards - vertical
+kpc - 20 - 10 - backwards - vertical
+yoi - 14 - 10 - backwards - vertical
+oiler - 13 - 10 - backwards - vertical
+ile - 12 - 10 - backwards - vertical
+iw - 1 - 10 - backwards - vertical
+nos - 2 - 11 - forwards - vertical
+sess - 5 - 11 - forwards - vertical
+esse - 6 - 11 - forwards - vertical
+send - 8 - 11 - forwards - vertical
+end - 9 - 11 - forwards - vertical
+ende - 9 - 11 - forwards - vertical
+ended - 9 - 11 - forwards - vertical
+nim - 14 - 11 - forwards - vertical
+mel - 16 - 11 - forwards - vertical
+omit - 24 - 11 - forwards - vertical
+mit - 25 - 11 - forwards - vertical
+tim - 27 - 11 - backwards - vertical
+timo - 27 - 11 - backwards - vertical
+simp - 22 - 11 - backwards - vertical
+simple - 22 - 11 - backwards - vertical
+simpleminded - 22 - 11 - backwards - vertical
+simplemindedness - 22 - 11 - backwards - vertical
+imp - 21 - 11 - backwards - vertical
+min - 16 - 11 - backwards - vertical
+mind - 16 - 11 - backwards - vertical
+minded - 16 - 11 - backwards - vertical
+mindedness - 16 - 11 - backwards - vertical
+ind - 15 - 11 - backwards - vertical
+inde - 15 - 11 - backwards - vertical
+nesses - 10 - 11 - backwards - vertical
+esses - 9 - 11 - backwards - vertical
+son - 4 - 11 - backwards - vertical
+dah - 0 - 12 - forwards - vertical
+hui - 8 - 12 - forwards - vertical
+ilth - 10 - 12 - forwards - vertical
+tha - 12 - 12 - forwards - vertical
+thad - 12 - 12 - forwards - vertical
+had - 13 - 12 - forwards - vertical
+adv - 14 - 12 - forwards - vertical
+eva - 24 - 12 - forwards - vertical
+evan - 24 - 12 - forwards - vertical
+van - 25 - 12 - forwards - vertical
+vane - 25 - 12 - forwards - vertical
+nav - 27 - 12 - backwards - vertical
+nave - 27 - 12 - backwards - vertical
+ave - 26 - 12 - backwards - vertical
+iph - 22 - 12 - backwards - vertical
+aht - 14 - 12 - backwards - vertical
+chad - 3 - 12 - backwards - vertical
+lof - 13 - 13 - forwards - vertical
+dec - 16 - 13 - forwards - vertical
+cub - 18 - 13 - forwards - vertical
+phr - 22 - 13 - forwards - vertical
+hr - 23 - 13 - forwards - vertical
+bus - 26 - 13 - forwards - vertical
+sub - 28 - 13 - backwards - vertical
+rh - 24 - 13 - backwards - vertical
+fol - 15 - 13 - backwards - vertical
+fole - 15 - 13 - backwards - vertical
+ole - 14 - 13 - backwards - vertical
+lew - 13 - 13 - backwards - vertical
+fn - 6 - 13 - backwards - vertical
+che - 2 - 13 - backwards - vertical
+roi - 15 - 14 - forwards - vertical
+cv - 28 - 14 - forwards - vertical
+vee - 29 - 14 - forwards - vertical
+cee - 32 - 14 - backwards - vertical
+vc - 29 - 14 - backwards - vertical
+eco - 23 - 14 - backwards - vertical
+oik - 21 - 14 - backwards - vertical
+crea - 1 - 15 - forwards - vertical
+rea - 2 - 15 - forwards - vertical
+stg - 22 - 15 - forwards - vertical
+stge - 22 - 15 - forwards - vertical
+geb - 24 - 15 - forwards - vertical
+beg - 26 - 15 - backwards - vertical
+err - 20 - 15 - backwards - vertical
+koa - 13 - 15 - backwards - vertical
+koae - 13 - 15 - backwards - vertical
+aer - 4 - 15 - backwards - vertical
+oat - 0 - 16 - forwards - vertical
+trt - 2 - 16 - forwards - vertical
+eft - 7 - 16 - forwards - vertical
+fv - 15 - 16 - forwards - vertical
+carr - 17 - 16 - forwards - vertical
+neg - 27 - 16 - forwards - vertical
+gen - 29 - 16 - backwards - vertical
+wis - 26 - 16 - backwards - vertical
+mfr - 13 - 16 - backwards - vertical
+fret - 12 - 16 - backwards - vertical
+tao - 2 - 16 - backwards - vertical
+ins - 5 - 17 - forwards - vertical
+gar - 26 - 17 - forwards - vertical
+rag - 28 - 17 - backwards - vertical
+ios - 10 - 17 - backwards - vertical
+tisic - 12 - 18 - forwards - vertical
+noll - 21 - 18 - forwards - vertical
+koi - 30 - 18 - forwards - vertical
+pct - 19 - 18 - backwards - vertical
+lgth - 5 - 18 - backwards - vertical
+hg - 2 - 18 - backwards - vertical
+gat - 11 - 19 - forwards - vertical
+scum - 20 - 19 - forwards - vertical
+cum - 21 - 19 - forwards - vertical
+cumal - 21 - 19 - forwards - vertical
+ald - 24 - 19 - forwards - vertical
+amu - 24 - 19 - backwards - vertical
+sou - 20 - 19 - backwards - vertical
+tag - 13 - 19 - backwards - vertical
+sny - 3 - 19 - backwards - vertical
+ana - 12 - 20 - forwards - vertical
+ips - 15 - 20 - forwards - vertical
+psha - 16 - 20 - forwards - vertical
+sha - 17 - 20 - forwards - vertical
+cgm - 28 - 20 - backwards - vertical
+mos - 26 - 20 - backwards - vertical
+adj - 23 - 20 - backwards - vertical
+ahs - 19 - 20 - backwards - vertical
+pia - 16 - 20 - backwards - vertical
+pian - 16 - 20 - backwards - vertical
+ala - 9 - 21 - forwards - vertical
+alar - 9 - 21 - forwards - vertical
+lars - 10 - 21 - forwards - vertical
+ars - 11 - 21 - forwards - vertical
+sos - 13 - 21 - forwards - vertical
+pie - 17 - 21 - forwards - vertical
+kin - 21 - 21 - forwards - vertical
+inv - 22 - 21 - forwards - vertical
+invt - 22 - 21 - forwards - vertical
+dx - 26 - 21 - forwards - vertical
+xd - 27 - 21 - backwards - vertical
+lao - 10 - 21 - backwards - vertical
+ka - 2 - 22 - forwards - vertical
+kam - 2 - 22 - forwards - vertical
+kame - 2 - 22 - forwards - vertical
+uri - 11 - 22 - forwards - vertical
+pop - 18 - 22 - forwards - vertical
+gaz - 24 - 22 - forwards - vertical
+xyz - 27 - 22 - forwards - vertical
+zag - 26 - 22 - backwards - vertical
+run - 12 - 22 - backwards - vertical
+ak - 3 - 22 - backwards - vertical
+qqv - 8 - 23 - forwards - vertical
+rua - 16 - 23 - forwards - vertical
+sfm - 23 - 23 - forwards - vertical
+vo - 26 - 23 - forwards - vertical
+mkt - 28 - 23 - forwards - vertical
+urs - 17 - 23 - backwards - vertical
+mtd - 0 - 24 - forwards - vertical
+udo - 5 - 24 - forwards - vertical
+yat - 9 - 24 - forwards - vertical
+stet - 16 - 24 - forwards - vertical
+ohm - 22 - 24 - forwards - vertical
+hap - 27 - 24 - forwards - vertical
+pah - 29 - 24 - backwards - vertical
+hom - 26 - 24 - backwards - vertical
+mho - 24 - 24 - backwards - vertical
+hoe - 23 - 24 - backwards - vertical
+tss - 17 - 24 - backwards - vertical
+tay - 11 - 24 - backwards - vertical
+syd - 12 - 25 - forwards - vertical
+yd - 13 - 25 - forwards - vertical
+are - 21 - 25 - forwards - vertical
+era - 23 - 25 - backwards - vertical
+dy - 14 - 25 - backwards - vertical
+dys - 14 - 25 - backwards - vertical
+zoa - 9 - 25 - backwards - vertical
+zap - 2 - 25 - backwards - vertical
+pd - 11 - 26 - forwards - vertical
+vr - 14 - 26 - forwards - vertical
+aik - 16 - 26 - forwards - vertical
+ike - 17 - 26 - forwards - vertical
+ket - 18 - 26 - forwards - vertical
+ppi - 24 - 26 - forwards - vertical
+piso - 25 - 26 - forwards - vertical
+iso - 26 - 26 - forwards - vertical
+qto - 30 - 26 - backwards - vertical
+osi - 28 - 26 - backwards - vertical
+psw - 24 - 26 - backwards - vertical
+dp - 12 - 26 - backwards - vertical
+sesqui - 0 - 27 - forwards - vertical
+sesquicentennial - 0 - 27 - forwards - vertical
+qui - 3 - 27 - forwards - vertical
+ice - 5 - 27 - forwards - vertical
+cent - 6 - 27 - forwards - vertical
+centennia - 6 - 27 - forwards - vertical
+centennial - 6 - 27 - forwards - vertical
+ten - 9 - 27 - forwards - vertical
+ennia - 10 - 27 - forwards - vertical
+ale - 14 - 27 - forwards - vertical
+leg - 15 - 27 - forwards - vertical
+txt - 18 - 27 - forwards - vertical
+gam - 23 - 27 - forwards - vertical
+apl - 30 - 27 - forwards - vertical
+pax - 31 - 27 - backwards - vertical
+mag - 25 - 27 - backwards - vertical
+gel - 17 - 27 - backwards - vertical
+ela - 16 - 27 - backwards - vertical
+elain - 16 - 27 - backwards - vertical
+lai - 15 - 27 - backwards - vertical
+lain - 15 - 27 - backwards - vertical
+ain - 14 - 27 - backwards - vertical
+inn - 13 - 27 - backwards - vertical
+inne - 13 - 27 - backwards - vertical
+innet - 13 - 27 - backwards - vertical
+net - 11 - 27 - backwards - vertical
+sulpha - 1 - 28 - forwards - vertical
+sulphantimonious - 1 - 28 - forwards - vertical
+han - 5 - 28 - forwards - vertical
+hant - 5 - 28 - forwards - vertical
+ant - 6 - 28 - forwards - vertical
+anti - 6 - 28 - forwards - vertical
+antimonious - 6 - 28 - forwards - vertical
+timon - 8 - 28 - forwards - vertical
+oni - 11 - 28 - forwards - vertical
+phi - 21 - 28 - forwards - vertical
+krs - 29 - 28 - forwards - vertical
+ihp - 23 - 28 - backwards - vertical
+ino - 13 - 28 - backwards - vertical
+plush - 4 - 28 - backwards - vertical
+lush - 3 - 28 - backwards - vertical
+ush - 2 - 28 - backwards - vertical
+ser - 6 - 29 - forwards - vertical
+wd - 28 - 29 - forwards - vertical
+superexcrescence - 16 - 29 - backwards - vertical
+pere - 14 - 29 - backwards - vertical
+rex - 12 - 29 - backwards - vertical
+excresce - 11 - 29 - backwards - vertical
+excrescence - 11 - 29 - backwards - vertical
+cres - 9 - 29 - backwards - vertical
+cresc - 9 - 29 - backwards - vertical
+crescence - 9 - 29 - backwards - vertical
+res - 8 - 29 - backwards - vertical
+sil - 1 - 30 - forwards - vertical
+silicic - 1 - 30 - forwards - vertical
+silicicalcareous - 1 - 30 - forwards - vertical
+ilicic - 2 - 30 - forwards - vertical
+icica - 4 - 30 - forwards - vertical
+calc - 7 - 30 - forwards - vertical
+calcar - 7 - 30 - forwards - vertical
+calcareous - 7 - 30 - forwards - vertical
+alca - 8 - 30 - forwards - vertical
+lca - 9 - 30 - forwards - vertical
+care - 10 - 30 - forwards - vertical
+ids - 21 - 30 - forwards - vertical
+hal - 25 - 30 - forwards - vertical
+halt - 25 - 30 - forwards - vertical
+alt - 26 - 30 - forwards - vertical
+lah - 27 - 30 - backwards - vertical
+ahi - 26 - 30 - backwards - vertical
+prs - 18 - 30 - backwards - vertical
+lis - 3 - 30 - backwards - vertical
+dae - 8 - 31 - forwards - vertical
+daer - 8 - 31 - forwards - vertical
+erd - 10 - 31 - forwards - vertical
+pil - 18 - 31 - forwards - vertical
+nou - 23 - 31 - backwards - vertical
+lip - 20 - 31 - backwards - vertical
+lips - 20 - 31 - backwards - vertical
+superdreadnought - 17 - 31 - backwards - vertical
+dread - 12 - 31 - backwards - vertical
+dreadnought - 12 - 31 - backwards - vertical
+read - 11 - 31 - backwards - vertical
+ead - 10 - 31 - backwards - vertical
+nought - 7 - 31 - backwards - vertical
+ough - 6 - 31 - backwards - vertical
+ought - 6 - 31 - backwards - vertical
+ugh - 5 - 31 - backwards - vertical
+subcarboniferous - 5 - 32 - forwards - vertical
+ubc - 6 - 32 - forwards - vertical
+carbo - 8 - 32 - forwards - vertical
+carbon - 8 - 32 - forwards - vertical
+carboniferous - 8 - 32 - forwards - vertical
+bon - 11 - 32 - forwards - vertical
+boni - 11 - 32 - forwards - vertical
+nife - 13 - 32 - forwards - vertical
+ife - 14 - 32 - forwards - vertical
+fer - 15 - 32 - forwards - vertical
+ferous - 15 - 32 - forwards - vertical
+rous - 17 - 32 - forwards - vertical
+mgt - 26 - 32 - backwards - vertical
+ref - 17 - 32 - backwards - vertical
+fino - 15 - 32 - backwards - vertical
+nob - 13 - 32 - backwards - vertical
+hie - 3 - 31 - backwards - diagonal right
+hei - 0 - 28 - forwards - diagonal right
+uni - 2 - 28 - forwards - diagonal right
+boc - 7 - 32 - backwards - diagonal right
+boce - 7 - 32 - backwards - diagonal right
+els - 4 - 29 - backwards - diagonal right
+cob - 5 - 30 - forwards - diagonal right
+pci - 4 - 28 - forwards - diagonal right
+inc - 6 - 30 - forwards - diagonal right
+shu - 6 - 29 - backwards - diagonal right
+uhs - 4 - 27 - forwards - diagonal right
+cia - 4 - 26 - forwards - diagonal right
+bel - 11 - 32 - backwards - diagonal right
+rle - 8 - 29 - forwards - diagonal right
+orc - 12 - 32 - backwards - diagonal right
+cte - 9 - 29 - backwards - diagonal right
+tex - 8 - 28 - backwards - diagonal right
+etc - 7 - 27 - forwards - diagonal right
+cro - 10 - 30 - forwards - diagonal right
+axin - 11 - 30 - backwards - diagonal right
+vu - 6 - 25 - backwards - diagonal right
+nix - 8 - 27 - forwards - diagonal right
+mtx - 10 - 28 - backwards - diagonal right
+adp - 7 - 25 - backwards - diagonal right
+mug - 4 - 22 - backwards - diagonal right
+gum - 2 - 20 - forwards - diagonal right
+gump - 2 - 20 - forwards - diagonal right
+ump - 3 - 21 - forwards - diagonal right
+fee - 15 - 32 - backwards - diagonal right
+feer - 15 - 32 - backwards - diagonal right
+roe - 12 - 29 - backwards - diagonal right
+ooh - 8 - 25 - backwards - diagonal right
+hee - 6 - 23 - backwards - diagonal right
+mee - 3 - 20 - forwards - diagonal right
+hoo - 6 - 23 - forwards - diagonal right
+reef - 12 - 29 - forwards - diagonal right
+ope - 14 - 30 - forwards - diagonal right
+pin - 14 - 29 - backwards - diagonal right
+cot - 5 - 20 - backwards - diagonal right
+cots - 5 - 20 - backwards - diagonal right
+sab - 2 - 17 - backwards - diagonal right
+bas - 0 - 15 - forwards - diagonal right
+bast - 0 - 15 - forwards - diagonal right
+basto - 0 - 15 - forwards - diagonal right
+ast - 1 - 16 - forwards - diagonal right
+nip - 12 - 27 - forwards - diagonal right
+zig - 6 - 20 - backwards - diagonal right
+agst - 14 - 27 - backwards - diagonal right
+gaus - 13 - 26 - forwards - diagonal right
+lv - 15 - 27 - backwards - diagonal right
+xw - 8 - 20 - backwards - diagonal right
+hye - 1 - 13 - forwards - diagonal right
+and - 9 - 21 - forwards - diagonal right
+vl - 14 - 26 - forwards - diagonal right
+slub - 21 - 32 - backwards - diagonal right
+slubber - 21 - 32 - backwards - diagonal right
+slubberdegullion - 21 - 32 - backwards - diagonal right
+lub - 20 - 31 - backwards - diagonal right
+lubber - 20 - 31 - backwards - diagonal right
+bb - 18 - 29 - backwards - diagonal right
+deg - 14 - 25 - backwards - diagonal right
+degu - 14 - 25 - backwards - diagonal right
+gul - 12 - 23 - backwards - diagonal right
+gull - 12 - 23 - backwards - diagonal right
+gullion - 12 - 23 - backwards - diagonal right
+ull - 11 - 22 - backwards - diagonal right
+lion - 9 - 20 - backwards - diagonal right
+ono - 7 - 18 - backwards - diagonal right
+noa - 6 - 17 - backwards - diagonal right
+oca - 3 - 14 - backwards - diagonal right
+noil - 6 - 17 - forwards - diagonal right
+ill - 8 - 19 - forwards - diagonal right
+lug - 10 - 21 - forwards - diagonal right
+luge - 10 - 21 - forwards - diagonal right
+ged - 12 - 23 - forwards - diagonal right
+ebb - 16 - 27 - forwards - diagonal right
+bul - 18 - 29 - forwards - diagonal right
+gal - 17 - 27 - backwards - diagonal right
+gali - 17 - 27 - backwards - diagonal right
+alit - 16 - 26 - backwards - diagonal right
+lit - 15 - 25 - backwards - diagonal right
+litra - 15 - 25 - backwards - diagonal right
+shr - 3 - 13 - backwards - diagonal right
+subcartilaginous - 7 - 17 - forwards - diagonal right
+cartilaginous - 10 - 20 - forwards - diagonal right
+rti - 12 - 22 - forwards - diagonal right
+til - 13 - 23 - forwards - diagonal right
+ila - 14 - 24 - forwards - diagonal right
+lag - 15 - 25 - forwards - diagonal right
+agin - 16 - 26 - forwards - diagonal right
+nous - 19 - 29 - forwards - diagonal right
+tut - 20 - 29 - backwards - diagonal right
+tit - 18 - 27 - backwards - diagonal right
+tits - 18 - 27 - backwards - diagonal right
+its - 17 - 26 - backwards - diagonal right
+ire - 13 - 22 - backwards - diagonal right
+use - 9 - 18 - backwards - diagonal right
+esu - 7 - 16 - forwards - diagonal right
+superi - 8 - 17 - forwards - diagonal right
+superinstitution - 8 - 17 - forwards - diagonal right
+peri - 10 - 19 - forwards - diagonal right
+erin - 11 - 20 - forwards - diagonal right
+rin - 12 - 21 - forwards - diagonal right
+rins - 12 - 21 - forwards - diagonal right
+inst - 13 - 22 - forwards - diagonal right
+institution - 13 - 22 - forwards - diagonal right
+sept - 23 - 30 - backwards - diagonal right
+septentrio - 23 - 30 - backwards - diagonal right
+septentrion - 23 - 30 - backwards - diagonal right
+septentrional - 23 - 30 - backwards - diagonal right
+septentrionality - 23 - 30 - backwards - diagonal right
+pte - 21 - 28 - backwards - diagonal right
+tent - 20 - 27 - backwards - diagonal right
+entr - 19 - 26 - backwards - diagonal right
+trio - 17 - 24 - backwards - diagonal right
+trional - 17 - 24 - backwards - diagonal right
+ality - 12 - 19 - backwards - diagonal right
+nek - 2 - 9 - backwards - diagonal right
+ken - 0 - 7 - forwards - diagonal right
+fz - 6 - 13 - forwards - diagonal right
+noir - 13 - 20 - forwards - diagonal right
+sett - 9 - 15 - forwards - diagonal right
+wet - 21 - 26 - backwards - diagonal right
+weta - 21 - 26 - backwards - diagonal right
+tal - 19 - 24 - backwards - diagonal right
+tall - 19 - 24 - backwards - diagonal right
+talli - 19 - 24 - backwards - diagonal right
+allicit - 18 - 23 - backwards - diagonal right
+licit - 16 - 21 - backwards - diagonal right
+rev - 11 - 16 - backwards - diagonal right
+semiverticillate - 5 - 10 - forwards - diagonal right
+ive - 8 - 13 - forwards - diagonal right
+ver - 9 - 14 - forwards - diagonal right
+vert - 9 - 14 - forwards - diagonal right
+verticil - 9 - 14 - forwards - diagonal right
+verticillate - 9 - 14 - forwards - diagonal right
+cill - 14 - 19 - forwards - diagonal right
+lat - 17 - 22 - forwards - diagonal right
+late - 17 - 22 - forwards - diagonal right
+tew - 19 - 24 - forwards - diagonal right
+hoc - 25 - 30 - forwards - diagonal right
+kaas - 28 - 32 - backwards - diagonal right
+aas - 27 - 31 - backwards - diagonal right
+fas - 12 - 16 - backwards - diagonal right
+fass - 12 - 16 - backwards - diagonal right
+ass - 11 - 15 - backwards - diagonal right
+saa - 4 - 8 - backwards - diagonal right
+yas - 25 - 28 - backwards - diagonal right
+reno - 22 - 25 - backwards - diagonal right
+subcommission - 8 - 11 - forwards - diagonal right
+subcommissioner - 8 - 11 - forwards - diagonal right
+subcommissioners - 8 - 11 - forwards - diagonal right
+comm - 11 - 14 - forwards - diagonal right
+commis - 11 - 14 - forwards - diagonal right
+commission - 11 - 14 - forwards - diagonal right
+commissioner - 11 - 14 - forwards - diagonal right
+commissioners - 11 - 14 - forwards - diagonal right
+miss - 14 - 17 - forwards - diagonal right
+mission - 14 - 17 - forwards - diagonal right
+missioner - 14 - 17 - forwards - diagonal right
+ione - 18 - 21 - forwards - diagonal right
+one - 19 - 22 - forwards - diagonal right
+oner - 19 - 22 - forwards - diagonal right
+say - 23 - 26 - forwards - diagonal right
+peh - 20 - 22 - backwards - diagonal right
+hw - 12 - 14 - backwards - diagonal right
+cai - 0 - 2 - forwards - diagonal right
+ail - 1 - 3 - forwards - diagonal right
+fat - 6 - 8 - forwards - diagonal right
+fate - 6 - 8 - forwards - diagonal right
+wh - 11 - 13 - forwards - diagonal right
+hep - 18 - 20 - forwards - diagonal right
+loy - 1 - 2 - forwards - diagonal right
+moid - 32 - 32 - backwards - diagonal right
+ski - 28 - 28 - backwards - diagonal right
+skit - 28 - 28 - backwards - diagonal right
+kit - 27 - 27 - backwards - diagonal right
+roc - 20 - 20 - backwards - diagonal right
+och - 19 - 19 - backwards - diagonal right
+doe - 8 - 8 - forwards - diagonal right
+cor - 18 - 18 - forwards - diagonal right
+cork - 18 - 18 - forwards - diagonal right
+spectroheliogram - 20 - 19 - backwards - diagonal right
+hel - 13 - 12 - backwards - diagonal right
+helio - 13 - 12 - backwards - diagonal right
+heliogram - 13 - 12 - backwards - diagonal right
+gra - 8 - 7 - backwards - diagonal right
+gram - 8 - 7 - backwards - diagonal right
+ram - 7 - 6 - backwards - diagonal right
+mar - 5 - 4 - forwards - diagonal right
+marg - 5 - 4 - forwards - diagonal right
+arg - 6 - 5 - forwards - diagonal right
+argo - 6 - 5 - forwards - diagonal right
+goi - 8 - 7 - forwards - diagonal right
+hor - 13 - 12 - forwards - diagonal right
+hort - 13 - 12 - forwards - diagonal right
+oms - 25 - 24 - forwards - diagonal right
+suk - 27 - 26 - forwards - diagonal right
+fad - 15 - 13 - backwards - diagonal right
+dis - 13 - 11 - backwards - diagonal right
+isl - 12 - 10 - backwards - diagonal right
+sid - 11 - 9 - forwards - diagonal right
+sida - 11 - 9 - forwards - diagonal right
+vav - 26 - 23 - backwards - diagonal right
+ava - 25 - 22 - backwards - diagonal right
+vau - 24 - 21 - backwards - diagonal right
+aune - 23 - 20 - backwards - diagonal right
+rid - 18 - 15 - backwards - diagonal right
+dd - 16 - 13 - backwards - diagonal right
+tck - 5 - 2 - forwards - diagonal right
+uta - 10 - 7 - forwards - diagonal right
+dir - 16 - 13 - forwards - diagonal right
+renu - 19 - 16 - forwards - diagonal right
+moo - 23 - 19 - backwards - diagonal right
+moor - 23 - 19 - backwards - diagonal right
+rye - 19 - 15 - backwards - diagonal right
+gens - 8 - 4 - forwards - diagonal right
+eyr - 17 - 13 - forwards - diagonal right
+room - 20 - 16 - forwards - diagonal right
+rooms - 20 - 16 - forwards - diagonal right
+oaf - 27 - 23 - forwards - diagonal right
+mxd - 28 - 23 - backwards - diagonal right
+doa - 26 - 21 - backwards - diagonal right
+alk - 24 - 19 - backwards - diagonal right
+pot - 12 - 7 - backwards - diagonal right
+orl - 6 - 1 - forwards - diagonal right
+top - 10 - 5 - forwards - diagonal right
+ker - 19 - 14 - forwards - diagonal right
+erk - 20 - 15 - forwards - diagonal right
+kas - 10 - 4 - backwards - diagonal right
+lisa - 6 - 0 - forwards - diagonal right
+sak - 8 - 2 - forwards - diagonal right
+sake - 8 - 2 - forwards - diagonal right
+ake - 9 - 3 - forwards - diagonal right
+jon - 14 - 8 - forwards - diagonal right
+obl - 21 - 14 - backwards - diagonal right
+cto - 9 - 2 - backwards - diagonal right
+otc - 7 - 0 - forwards - diagonal right
+llb - 18 - 11 - forwards - diagonal right
+clag - 28 - 20 - backwards - diagonal right
+clags - 28 - 20 - backwards - diagonal right
+lags - 27 - 19 - backwards - diagonal right
+cfh - 22 - 14 - backwards - diagonal right
+pcm - 19 - 11 - backwards - diagonal right
+aux - 14 - 6 - backwards - diagonal right
+auxin - 14 - 6 - backwards - diagonal right
+xina - 12 - 4 - backwards - diagonal right
+bani - 8 - 0 - forwards - diagonal right
+cts - 22 - 14 - forwards - diagonal right
+gig - 26 - 17 - backwards - diagonal right
+ppm - 22 - 13 - backwards - diagonal right
+peg - 19 - 10 - backwards - diagonal right
+chart - 15 - 6 - backwards - diagonal right
+hart - 14 - 5 - backwards - diagonal right
+trah - 11 - 2 - forwards - diagonal right
+awe - 27 - 17 - backwards - diagonal right
+sao - 19 - 9 - backwards - diagonal right
+pato - 15 - 5 - backwards - diagonal right
+ton - 13 - 3 - backwards - diagonal right
+not - 11 - 1 - forwards - diagonal right
+nota - 11 - 1 - forwards - diagonal right
+apio - 14 - 4 - forwards - diagonal right
+ask - 18 - 8 - forwards - diagonal right
+sqd - 22 - 11 - backwards - diagonal right
+dum - 20 - 9 - backwards - diagonal right
+flies - 17 - 6 - backwards - diagonal right
+lies - 16 - 5 - backwards - diagonal right
+mud - 18 - 7 - forwards - diagonal right
+hrs - 23 - 12 - forwards - diagonal right
+far - 30 - 19 - forwards - diagonal right
+enki - 32 - 20 - backwards - diagonal right
+kie - 30 - 18 - backwards - diagonal right
+ctg - 23 - 11 - backwards - diagonal right
+umm - 17 - 5 - backwards - diagonal right
+gtc - 21 - 9 - forwards - diagonal right
+poy - 32 - 19 - backwards - diagonal right
+vow - 25 - 12 - backwards - diagonal right
+oes - 16 - 3 - forwards - diagonal right
+ama - 26 - 12 - backwards - diagonal right
+amas - 26 - 12 - backwards - diagonal right
+mas - 25 - 11 - backwards - diagonal right
+boa - 22 - 8 - backwards - diagonal right
+boar - 22 - 8 - backwards - diagonal right
+arc - 20 - 6 - backwards - diagonal right
+inf - 17 - 3 - backwards - diagonal right
+raob - 19 - 5 - forwards - diagonal right
+aob - 20 - 6 - forwards - diagonal right
+obs - 21 - 7 - forwards - diagonal right
+sam - 23 - 9 - forwards - diagonal right
+mau - 25 - 11 - forwards - diagonal right
+merv - 32 - 17 - backwards - diagonal right
+lech - 21 - 6 - backwards - diagonal right
+chs - 19 - 4 - backwards - diagonal right
+elm - 20 - 5 - forwards - diagonal right
+fun - 23 - 8 - forwards - diagonal right
+tebet - 31 - 15 - backwards - diagonal right
+bet - 29 - 13 - backwards - diagonal right
+toe - 25 - 9 - backwards - diagonal right
+cue - 19 - 3 - backwards - diagonal right
+leu - 16 - 0 - forwards - diagonal right
+leuco - 16 - 0 - forwards - diagonal right
+leo - 22 - 6 - forwards - diagonal right
+tite - 25 - 9 - forwards - diagonal right
+bete - 29 - 13 - forwards - diagonal right
+tty - 25 - 8 - backwards - diagonal right
+poi - 18 - 1 - forwards - diagonal right
+cry - 32 - 14 - backwards - diagonal right
+sir - 27 - 9 - backwards - diagonal right
+sirs - 27 - 9 - backwards - diagonal right
+lue - 18 - 0 - forwards - diagonal right
+oos - 21 - 3 - forwards - diagonal right
+sris - 24 - 6 - forwards - diagonal right
+ony - 28 - 10 - forwards - diagonal right
+cyril - 27 - 8 - backwards - diagonal right
+cut - 30 - 10 - backwards - diagonal right
+tot - 28 - 8 - backwards - diagonal right
+saj - 23 - 3 - backwards - diagonal right
+ja - 21 - 1 - backwards - diagonal right
+jasy - 21 - 1 - forwards - diagonal right
+aam - 29 - 8 - backwards - diagonal right
+hgt - 25 - 4 - backwards - diagonal right
+hem - 25 - 4 - forwards - diagonal right
+blk - 25 - 3 - backwards - diagonal right
+bpt - 25 - 3 - forwards - diagonal right
+bx - 32 - 9 - backwards - diagonal right
+lias - 29 - 6 - backwards - diagonal right
+wu - 24 - 1 - forwards - diagonal right
+wus - 24 - 1 - forwards - diagonal right
+sai - 26 - 3 - forwards - diagonal right
+sail - 26 - 3 - forwards - diagonal right
+key - 32 - 8 - backwards - diagonal right
+rps - 30 - 0 - forwards - diagonal right
+zoo - 30 - 32 - forwards - diagonal left
+yer - 32 - 29 - backwards - diagonal left
+crl - 27 - 32 - forwards - diagonal left
+tdr - 28 - 30 - forwards - diagonal left
+ipr - 32 - 26 - backwards - diagonal left
+hak - 31 - 26 - backwards - diagonal left
+paw - 25 - 31 - forwards - diagonal left
+paws - 25 - 31 - forwards - diagonal left
+swa - 28 - 28 - backwards - diagonal left
+swap - 28 - 28 - backwards - diagonal left
+wap - 27 - 29 - backwards - diagonal left
+apt - 26 - 30 - backwards - diagonal left
+but - 27 - 28 - forwards - diagonal left
+butt - 27 - 28 - forwards - diagonal left
+gtt - 31 - 24 - backwards - diagonal left
+tub - 29 - 26 - backwards - diagonal left
+ubi - 28 - 27 - backwards - diagonal left
+mcf - 31 - 23 - backwards - diagonal left
+sins - 25 - 29 - backwards - diagonal left
+tor - 30 - 23 - forwards - diagonal left
+rot - 32 - 21 - backwards - diagonal left
+sud - 20 - 32 - forwards - diagonal left
+emm - 32 - 20 - backwards - diagonal left
+kai - 29 - 23 - backwards - diagonal left
+yap - 30 - 21 - forwards - diagonal left
+pay - 32 - 19 - backwards - diagonal left
+tho - 25 - 25 - forwards - diagonal left
+hoy - 26 - 24 - forwards - diagonal left
+put - 18 - 31 - forwards - diagonal left
+tup - 20 - 29 - backwards - diagonal left
+nef - 19 - 29 - forwards - diagonal left
+wem - 22 - 26 - forwards - diagonal left
+mew - 24 - 24 - backwards - diagonal left
+fen - 21 - 27 - backwards - diagonal left
+fur - 15 - 32 - forwards - diagonal left
+urb - 16 - 31 - forwards - diagonal left
+taos - 20 - 26 - forwards - diagonal left
+lei - 27 - 19 - forwards - diagonal left
+mtg - 26 - 20 - backwards - diagonal left
+insp - 18 - 28 - backwards - diagonal left
+tee - 18 - 27 - forwards - diagonal left
+vod - 24 - 21 - forwards - diagonal left
+gre - 29 - 16 - forwards - diagonal left
+erg - 31 - 14 - backwards - diagonal left
+kee - 22 - 23 - backwards - diagonal left
+tbs - 18 - 27 - backwards - diagonal left
+sla - 24 - 20 - forwards - diagonal left
+aeger - 27 - 17 - forwards - diagonal left
+eger - 28 - 16 - forwards - diagonal left
+ger - 29 - 15 - forwards - diagonal left
+reg - 31 - 13 - backwards - diagonal left
+aals - 27 - 17 - backwards - diagonal left
+als - 26 - 18 - backwards - diagonal left
+bde - 11 - 32 - forwards - diagonal left
+dep - 12 - 31 - forwards - diagonal left
+goa - 26 - 17 - backwards - diagonal left
+ped - 14 - 29 - backwards - diagonal left
+ola - 14 - 28 - forwards - diagonal left
+lane - 15 - 27 - forwards - diagonal left
+laney - 15 - 27 - forwards - diagonal left
+wm - 26 - 16 - forwards - diagonal left
+mw - 27 - 15 - backwards - diagonal left
+pye - 20 - 22 - backwards - diagonal left
+yen - 19 - 23 - backwards - diagonal left
+alo - 16 - 26 - backwards - diagonal left
+aloe - 16 - 26 - backwards - diagonal left
+loe - 15 - 27 - backwards - diagonal left
+aria - 11 - 30 - forwards - diagonal left
+ria - 12 - 29 - forwards - diagonal left
+sho - 28 - 13 - forwards - diagonal left
+shog - 28 - 13 - forwards - diagonal left
+hog - 29 - 12 - forwards - diagonal left
+ohs - 30 - 11 - backwards - diagonal left
+air - 14 - 27 - backwards - diagonal left
+aira - 14 - 27 - backwards - diagonal left
+cace - 8 - 32 - forwards - diagonal left
+ace - 9 - 31 - forwards - diagonal left
+superconsequence - 16 - 24 - forwards - diagonal left
+cons - 21 - 19 - forwards - diagonal left
+consequence - 21 - 19 - forwards - diagonal left
+seq - 24 - 16 - forwards - diagonal left
+sequence - 24 - 16 - forwards - diagonal left
+que - 26 - 14 - forwards - diagonal left
+vin - 14 - 26 - backwards - diagonal left
+vine - 14 - 26 - backwards - diagonal left
+bdl - 7 - 32 - forwards - diagonal left
+dsr - 14 - 25 - forwards - diagonal left
+nox - 12 - 27 - backwards - diagonal left
+una - 6 - 32 - forwards - diagonal left
+siphon - 15 - 23 - forwards - diagonal left
+siphonostoma - 15 - 23 - forwards - diagonal left
+siphonostomatous - 15 - 23 - forwards - diagonal left
+pho - 17 - 21 - forwards - diagonal left
+phon - 17 - 21 - forwards - diagonal left
+phono - 17 - 21 - forwards - diagonal left
+phonos - 17 - 21 - forwards - diagonal left
+hon - 18 - 20 - forwards - diagonal left
+stoma - 22 - 16 - forwards - diagonal left
+stomatous - 22 - 16 - forwards - diagonal left
+touse - 27 - 11 - forwards - diagonal left
+touser - 27 - 11 - forwards - diagonal left
+user - 29 - 9 - forwards - diagonal left
+mots - 25 - 13 - backwards - diagonal left
+noh - 20 - 18 - backwards - diagonal left
+can - 9 - 29 - backwards - diagonal left
+soc - 5 - 32 - forwards - diagonal left
+rie - 8 - 29 - forwards - diagonal left
+nil - 14 - 23 - forwards - diagonal left
+nils - 14 - 23 - forwards - diagonal left
+superservice - 17 - 20 - forwards - diagonal left
+superserviceable - 17 - 20 - forwards - diagonal left
+perse - 19 - 18 - forwards - diagonal left
+erse - 20 - 17 - forwards - diagonal left
+serv - 22 - 15 - forwards - diagonal left
+service - 22 - 15 - forwards - diagonal left
+serviceable - 22 - 15 - forwards - diagonal left
+vic - 25 - 12 - forwards - diagonal left
+vice - 25 - 12 - forwards - diagonal left
+able - 29 - 8 - forwards - diagonal left
+elb - 32 - 5 - backwards - diagonal left
+civ - 27 - 10 - backwards - diagonal left
+sline - 17 - 20 - backwards - diagonal left
+lin - 16 - 21 - backwards - diagonal left
+line - 16 - 21 - backwards - diagonal left
+lines - 16 - 21 - backwards - diagonal left
+speir - 12 - 25 - backwards - diagonal left
+eir - 10 - 27 - backwards - diagonal left
+cos - 7 - 30 - backwards - diagonal left
+btl - 12 - 24 - forwards - diagonal left
+spectrochemistry - 15 - 21 - forwards - diagonal left
+troch - 19 - 17 - forwards - diagonal left
+troche - 19 - 17 - forwards - diagonal left
+roche - 20 - 16 - forwards - diagonal left
+chem - 22 - 14 - forwards - diagonal left
+chemis - 22 - 14 - forwards - diagonal left
+chemist - 22 - 14 - forwards - diagonal left
+chemistry - 22 - 14 - forwards - diagonal left
+mist - 25 - 11 - forwards - diagonal left
+mistry - 25 - 11 - forwards - diagonal left
+cort - 22 - 14 - backwards - diagonal left
+slt - 15 - 21 - backwards - diagonal left
+gio - 12 - 23 - forwards - diagonal left
+stereophonic - 16 - 19 - forwards - diagonal left
+stereophonically - 16 - 19 - forwards - diagonal left
+phonic - 22 - 13 - forwards - diagonal left
+phonically - 22 - 13 - forwards - diagonal left
+inns - 9 - 26 - backwards - diagonal left
+ghi - 2 - 32 - forwards - diagonal left
+hic - 3 - 31 - forwards - diagonal left
+zad - 9 - 25 - forwards - diagonal left
+saccharification - 13 - 21 - forwards - diagonal left
+rifi - 19 - 15 - forwards - diagonal left
+fir - 21 - 13 - backwards - diagonal left
+cho - 6 - 27 - forwards - diagonal left
+choy - 6 - 27 - forwards - diagonal left
+urn - 11 - 22 - forwards - diagonal left
+kbps - 19 - 14 - forwards - diagonal left
+bps - 20 - 13 - forwards - diagonal left
+wut - 23 - 10 - forwards - diagonal left
+elt - 4 - 29 - backwards - diagonal left
+pix - 4 - 28 - forwards - diagonal left
+naa - 10 - 22 - forwards - diagonal left
+sov - 14 - 18 - forwards - diagonal left
+yuh - 18 - 14 - forwards - diagonal left
+hits - 20 - 12 - forwards - diagonal left
+sort - 23 - 9 - forwards - diagonal left
+ros - 25 - 7 - backwards - diagonal left
+lax - 8 - 24 - backwards - diagonal left
+lea - 10 - 21 - forwards - diagonal left
+miae - 14 - 17 - backwards - diagonal left
+moe - 15 - 15 - forwards - diagonal left
+pkg - 19 - 11 - forwards - diagonal left
+eom - 17 - 13 - backwards - diagonal left
+uds - 7 - 23 - backwards - diagonal left
+dkl - 16 - 13 - forwards - diagonal left
+pdn - 19 - 10 - forwards - diagonal left
+hsi - 25 - 4 - forwards - diagonal left
+ish - 27 - 2 - backwards - diagonal left
+loq - 9 - 20 - backwards - diagonal left
+pfx - 5 - 23 - forwards - diagonal left
+bys - 25 - 3 - backwards - diagonal left
+slon - 23 - 5 - backwards - diagonal left
+aeq - 4 - 23 - forwards - diagonal left
+rod - 13 - 14 - forwards - diagonal left
+unl - 19 - 8 - forwards - diagonal left
+hug - 26 - 1 - backwards - diagonal left
+dor - 15 - 12 - backwards - diagonal left
+rori - 13 - 14 - backwards - diagonal left
+aaa - 18 - 8 - forwards - diagonal left
+pos - 21 - 5 - forwards - diagonal left
+sop - 23 - 3 - backwards - diagonal left
+opa - 22 - 4 - backwards - diagonal left
+amnia - 18 - 8 - backwards - diagonal left
+mfd - 4 - 22 - backwards - diagonal left
+cost - 6 - 19 - forwards - diagonal left
+tec - 9 - 16 - forwards - diagonal left
+bec - 19 - 6 - forwards - diagonal left
+cwt - 25 - 0 - backwards - diagonal left
+act - 3 - 22 - backwards - diagonal left
+kuri - 2 - 22 - forwards - diagonal left
+rix - 4 - 20 - forwards - diagonal left
+oak - 21 - 3 - forwards - diagonal left
+ako - 22 - 2 - forwards - diagonal left
+oka - 24 - 0 - backwards - diagonal left
+goy - 16 - 8 - backwards - diagonal left
+bleo - 10 - 13 - forwards - diagonal left
+myc - 16 - 7 - backwards - diagonal left
+coe - 14 - 9 - backwards - diagonal left
+enl - 7 - 16 - backwards - diagonal left
+sidi - 9 - 13 - forwards - diagonal left
+idic - 10 - 12 - forwards - diagonal left
+cid - 13 - 9 - backwards - diagonal left
+lad - 11 - 10 - forwards - diagonal left
+lady - 11 - 10 - forwards - diagonal left
+ady - 12 - 9 - forwards - diagonal left
+soh - 20 - 1 - backwards - diagonal left
+dal - 13 - 8 - backwards - diagonal left
+aln - 12 - 9 - backwards - diagonal left
+etui - 3 - 17 - forwards - diagonal left
+etuis - 3 - 17 - forwards - diagonal left
+tui - 4 - 16 - forwards - diagonal left
+tuis - 4 - 16 - forwards - diagonal left
+shee - 7 - 13 - forwards - diagonal left
+ute - 5 - 15 - backwards - diagonal left
+ras - 3 - 16 - forwards - diagonal left
+rit - 9 - 10 - forwards - diagonal left
+thio - 13 - 6 - forwards - diagonal left
+sar - 5 - 14 - backwards - diagonal left
+len - 18 - 0 - backwards - diagonal left
+islot - 12 - 6 - backwards - diagonal left
+slots - 11 - 7 - backwards - diagonal left
+lots - 10 - 8 - backwards - diagonal left
+aro - 1 - 16 - forwards - diagonal left
+rone - 2 - 15 - forwards - diagonal left
+nee - 4 - 13 - forwards - diagonal left
+need - 4 - 13 - forwards - diagonal left
+needn - 4 - 13 - forwards - diagonal left
+ora - 11 - 6 - forwards - diagonal left
+orae - 11 - 6 - forwards - diagonal left
+eery - 14 - 3 - forwards - diagonal left
+dee - 7 - 10 - backwards - diagonal left
+een - 6 - 11 - backwards - diagonal left
+nora - 4 - 13 - backwards - diagonal left
+sgad - 5 - 11 - forwards - diagonal left
+next - 10 - 6 - forwards - diagonal left
+ext - 11 - 5 - forwards - diagonal left
+dags - 8 - 8 - backwards - diagonal left
+stir - 9 - 6 - forwards - diagonal left
+stirs - 9 - 6 - forwards - diagonal left
+hol - 2 - 12 - forwards - diagonal left
+holl - 2 - 12 - forwards - diagonal left
+keb - 10 - 4 - backwards - diagonal left
+fll - 6 - 8 - backwards - diagonal left
+tue - 11 - 2 - forwards - diagonal left
+gan - 8 - 4 - forwards - diagonal left
+nag - 10 - 2 - backwards - diagonal left
+ggr - 8 - 4 - backwards - diagonal left
+lcd - 8 - 3 - forwards - diagonal left
+clk - 9 - 2 - backwards - diagonal left
+pst - 4 - 6 - forwards - diagonal left
+sty - 5 - 5 - forwards - diagonal left
+tsp - 6 - 4 - backwards - diagonal left
+spa - 5 - 5 - backwards - diagonal left
+laz - 6 - 2 - backwards - diagonal left
+too - 5 - 2 - forwards - diagonal left
+oot - 7 - 0 - backwards - diagonal left
+zan - 0 - 4 - forwards - diagonal left
+zant - 0 - 4 - forwards - diagonal left
+mtn - 4 - 0 - backwards - diagonal left
